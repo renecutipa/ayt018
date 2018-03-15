@@ -1,0 +1,447 @@
+/* 
+    Document   : Our Metro Sidebar
+    Created on : jul 17, 2013
+    Updated on : jul 23, 2013
+    Author     : rabartu.soft
+    Description: Our Metro Sidebar display a sidebar with metro style, ideal for use on tables of content, navigation menus or management interfaces.
+
+*/
+
+@font-face{
+    font-family:"PT Serif Caption";
+    font-style:normal;
+    font-weight:400;
+    src:local("PT Serif Caption"),
+        local("PTSerif-Caption"),
+        url(https://themes.googleusercontent.com/static/fonts/ptserifcaption/v4/7xkFOeTxxO1GMC1suOUYWWhBabBbEjGd1iRmpyoZukE.woff) 
+        format('woff')}
+@font-face{
+    font-family:"Open Sans";
+    font-style:normal;
+    font-weight:700;
+    src:
+        local("Open Sans Bold"),
+        local("OpenSans-Bold"),
+        url(https://themes.googleusercontent.com/static/fonts/opensans/v6/k3k702ZOKiLJc3WVjuplzJ1r3JsPcQLi8jytr04NNhU.woff) 
+        format('woff')}
+@font-face{
+    font-family:"Open Sans";
+    font-style:normal;
+    font-weight:300;
+    src:local("Open Sans Light"),
+        local("OpenSans-Light"),
+        url(https://themes.googleusercontent.com/static/fonts/opensans/v6/DXI1ORHCpsQm3Vp6mXoaTZ1r3JsPcQLi8jytr04NNhU.woff) 
+        format('woff')}
+@font-face{
+    font-family:"Open Sans";
+    font-style:normal;
+    font-weight:800;
+    src:local("Open Sans Extrabold"),
+        local("OpenSans-Extrabold"),
+        url(https://themes.googleusercontent.com/static/fonts/opensans/v6/EInbV5DfGHOiMmvb1Xr-hp1r3JsPcQLi8jytr04NNhU.woff) 
+        format('woff')}
+@font-face{
+    font-family:"Open Sans";
+    font-style:normal;
+    font-weight:400;
+    src:local("Open Sans"),
+        local("OpenSans"),
+        url(https://themes.googleusercontent.com/static/fonts/opensans/v6/K88pR3goAWT7BTt32Z01mz8E0i7KZn-EPnyo3HZu7kw.woff) 
+        format('woff')}
+
+
+@font-face {
+  font-family: 'IcoMoon';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../font/IcoMoon.eot');
+  src: url('../font/IcoMoon.svg#IcoMoon') format('svg'), url('../font/IcoMoon.eot?#iefix') format('embedded-opentype'), url('../font/IcoMoon.woff') format('woff'), url('../font/IcoMoon.ttf') format('truetype');
+}
+/*
+body{
+    margin: 0px;
+}
+*/
+.sidebar { 
+    
+    z-index: 999999;
+    
+    /*position*/
+    position: fixed;
+    top: 148px;
+    left: 0%;
+    
+    /*size*/
+    width: 150px;
+    height: 100%;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    
+    /*font*/
+    font-family: 'Open Sans';
+    -webkit-font-smoothing: antialiased;
+    font-weight: 300;
+    font-size: 1.1em;    
+    letter-spacing: 0.01em;
+    text-decoration: none;
+    line-height: 20pt;
+    
+    
+    margin: 0px;
+    padding: 0px;
+    background: white;
+    
+    
+    -moz-box-shadow:    0px 0px 5px rgba(0, 0, 0, .8);
+    -webkit-box-shadow: 0px 0px 5px rgba(0, 0, 0, .8);
+    box-shadow:         0px 0px 5px rgba(0, 0, 0, .8);
+}
+
+.sidebar-right{
+    left: 100%;
+    margin-left: -220px;
+}
+
+.sidebar .title{
+    z-index: 999999;
+    font-family: 'Open Sans';
+    -webkit-font-smoothing: antialiased;
+    font-size: 100%;
+    letter-spacing: 0.01em;
+    line-height: 22pt;
+    color: #333333;
+    padding: 2px;    
+    vertical-align: baseline;
+    background: #dad9d9;    
+    background: -webkit-gradient(linear, 0 0, 0 bottom, from(#ffffff), to(#eaedf1));
+    border-bottom: 1px solid #b6babf;
+}
+
+.sidebar .title:after:hover{
+   background-color: #d14 !important;
+}
+
+
+.sidebar-close{
+  font-weight: 100;
+  font-size: 10px;
+  position: absolute;
+  top: 0px;
+  height: 32px;
+  width: 30px;
+  margin-top: -8px;
+  margin-left: -30px; 
+  text-align: center;
+  left:100%;
+  cursor: pointer;
+}
+
+.sidebar a {
+  font-family: 'Open Sans';
+  letter-spacing: 0.01em;
+  line-height: 20pt;
+  color: #356786;
+  display: block;
+  width: 100%;
+  padding: 5px 10px 5px 10px;
+  white-space: pre-line;
+  font-size: 14px;
+  cursor: pointer;
+  text-decoration: none;
+  font-weight: 400;
+}
+
+.sidebar .menu {
+  font-family: 'Open Sans';
+  letter-spacing: 0.01em;
+  line-height: 20pt;
+  color: #356786;
+  width: 100%;
+  padding: 5px 10px 5px 8px;
+  white-space: pre-line;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+
+.sidebar .checkable a.select{
+  background-color: #dad9d9 !important;
+  color: #333333 !important;
+}
+
+.sidebar-red {
+    background: #AC193D ; 
+    background-image: radial-gradient(transparent 20%, rgba(0, 0, 0, 0.2) 80%, rgba(0, 0, 0, 0.2) 100%);
+}
+.sidebar-red a:hover{
+  background-color: #BF1E4B !important;
+  color: #ffffff !important;
+}
+.sidebar-red >.title >.sidebar-close:hover {
+    background-color: #BF1E4B !important;
+    color: #ffffff;
+}
+
+.sidebar-green {
+    background: #008A00 ; 
+    background-image: radial-gradient(transparent 20%, rgba(0, 0, 0, 0.2) 80%, rgba(0, 0, 0, 0.2) 100%);
+}
+.sidebar-green a:hover{
+  background-color: #00A600 !important;
+  color: #ffffff !important;
+}
+.sidebar-green >.title >.sidebar-close:hover {
+    background-color: #00A600 !important;
+    color: #ffffff;
+}
+
+.sidebar-blue {
+    background: #2672EC ; 
+    background-image: radial-gradient(transparent 20%, rgba(0, 0, 0, 0.2) 80%, rgba(0, 0, 0, 0.2) 100%);
+}
+.sidebar-blue a:hover{
+  background-color: #2E8DEF !important;
+  color: #ffffff !important;
+}
+.sidebar-blue >.title >.sidebar-close:hover {
+    background-color: #2E8DEF !important;
+    color: #ffffff;
+}
+
+.sidebar-skyBlue {
+    background: #FEFFFF ; 
+    /*background-image: radial-gradient(transparent 20%, rgba(256, 256, 256, 0.2) 80%, rgba(256, 256, 256, 0.2) 100%);*/
+}
+.sidebar-skyBlue a:hover{
+  background-color: #0A5BC4 !important;
+  color: #ffffff !important;
+}
+.sidebar-skyBlue >.title >.sidebar-close:hover {
+    background-color: #0A5BC4 !important;
+    color: #ffffff;
+}
+
+.sidebar-teal {
+    background: #008299 ; 
+    background-image: radial-gradient(transparent 20%, rgba(0, 0, 0, 0.2) 80%, rgba(0, 0, 0, 0.2) 100%);
+}
+.sidebar-teal a:hover{
+  background-color: #00A0B1 !important;
+  color: #ffffff !important;
+}
+.sidebar-teal >.title >.sidebar-close:hover {
+    background-color: #00A0B1 !important;
+    color: #ffffff;
+}
+
+.sidebar-orange {
+    background: #D24726 ; 
+    background-image: radial-gradient(transparent 20%, rgba(0, 0, 0, 0.2) 80%, rgba(0, 0, 0, 0.2) 100%);
+}
+.sidebar-orange a:hover{
+  background-color: #DC572E !important;
+  color: #ffffff !important;
+}
+.sidebar-orange >.title >.sidebar-close:hover {
+    background-color: #DC572E !important;
+    color: #ffffff;
+}
+
+.sidebar-yellow {
+    background: #e8be1b ; 
+    background-image: radial-gradient(transparent 20%, rgba(0, 0, 0, 0.2) 80%, rgba(0, 0, 0, 0.2) 100%);
+}
+.sidebar-yellow a:hover{
+  background-color: #f7d240 !important;
+  color: #ffffff !important;
+}
+.sidebar-yellow >.title >.sidebar-close:hover {
+    background-color: #f7d240 !important;
+    color: #ffffff;
+}
+
+.sidebar-purple {
+    background: #643EBF ; 
+    background-image: radial-gradient(transparent 20%, rgba(0, 0, 0, 0.2) 80%, rgba(0, 0, 0, 0.2) 100%);
+}
+.sidebar-purple a:hover{
+  background-color: #643EBF !important;
+  color: #ffffff !important;
+}
+.sidebar-purple >.title >.sidebar-close:hover {
+    background-color: #643EBF !important;
+    color: #ffffff;
+}
+
+.sidebar-darkPurple {
+    background: #8C0095 ; 
+    background-image: radial-gradient(transparent 20%, rgba(0, 0, 0, 0.2) 80%, rgba(0, 0, 0, 0.2) 100%);
+}
+.sidebar-darkPurple a:hover{
+  background-color: #A700AE !important;
+  color: #ffffff !important;
+}
+.sidebar-darkPurple >.title >.sidebar-close:hover {
+    background-color: #A700AE !important;
+    color: #ffffff;
+}
+
+#sidebar-content {
+    width: 220px;
+    position: static;
+    height: 100%;
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: 0.01em;
+    line-height: 14pt;
+    margin-top:5px;
+    
+    display: block;
+    z-index: 1;
+    padding: 0px;
+}
+
+.sidebar-compact {
+    position: fixed;
+    left: 0px;
+    top: 0;
+    width: 15px;
+    height: 100px;   
+    display: block;
+    cursor: pointer;
+    color: #333333;
+    border-left: transparent;
+    -moz-box-shadow:    0px 0px 2px rgba(0, 0, 0, .8);
+    -webkit-box-shadow: 0px 0px 2px rgba(0, 0, 0, .8);
+    box-shadow:         0px 0px 2px rgba(0, 0, 0, .8);
+}
+
+.sidebar-compact:before {
+  font-family: 'icomoon';
+  -webkit-font-smoothing: antialiased;
+  font-weight: normal;
+  line-height: 1;
+  text-transform: none;
+  speak: none;
+  font-variant: normal;
+  content:  "\e12e";
+  font-size: 160%;
+  display: inline-block;
+  width: 8px;
+  height: 100px;
+  margin-top: 40px;
+  margin-left: -4px;
+  vertical-align: middle;  
+}
+
+.sidebar-compact-right{
+    left: 100%;
+    margin-left: -16px;
+}
+
+.sidebar-compact-right:before {
+  font-family: 'icomoon';
+  -webkit-font-smoothing: antialiased;
+  font-weight: normal;
+  line-height: 1;
+  text-transform: none;
+  speak: none;
+  font-variant: normal;
+  content:  "\e12b";
+  font-size: 160%;
+  display: inline-block;
+  width: 8px;
+  height: 100px;
+  margin-top: 40px;
+  margin-left: -4px;
+  vertical-align: middle;  
+}
+
+.sidebar-compact:hover {
+     color: #ffffff;
+}
+
+.sidebar a.sidebar-dropdown{
+    font-weight: 400;
+}
+.sidebar a.sidebar-dropdown:before {
+  font-family: 'icomoon';
+  -webkit-font-smoothing: antialiased;
+  font-weight: normal;
+  line-height: 1;
+  text-transform: none;
+  speak: none;
+  font-variant: normal;
+  
+  content:  "\e12d";
+  font-size: 120%;
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  margin-left: -25px; 
+  margin-top: 5px;
+  left:100%;
+  cursor: pointer;
+}
+
+.sidebar a.sidebar-dropdown.collapsed:before {
+  font-family: 'icomoon';
+  -webkit-font-smoothing: antialiased;
+  font-weight: normal;
+  line-height: 1;
+  text-transform: none;
+  speak: none;
+  font-variant: normal;
+  
+  content:  "\e12c";
+  font-size: 120%;
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  margin-left: -25px; 
+  margin-top: 5px;
+  left:100%;
+  cursor: pointer;
+}
+
+
+
+.sidebar li {
+  display: list-item;
+  line-height: 30px;
+  position: relative;
+}
+
+#sidebar-content span{
+  margin-right: 5px; margin-left: -15px;
+}
+
+.sidebar .divider {
+  height: 1px;
+  margin: 9px 1px;
+  overflow: hidden;
+  background-color: #e5e5e5;
+}
+
+.sidebar ul {  
+  padding: 0px 0px 0px 0px;
+  margin-left: 0;
+  list-style: none;
+  -moz-box-sizing: border-box;
+}
+
+.sidebar ul.sub-menu a {
+  padding: 5px 5px 5px 30px;
+  font-size: 16px;
+  text-decoration: none;
+  -moz-box-sizing: border-box;
+}
+
+.document-content{ 
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    display: table;
+    width: auto
+}

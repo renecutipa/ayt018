@@ -14,6 +14,8 @@ class Login extends CI_Controller
 	
 	public function index()
 	{	
+		$this->load->view('fondo');
+		$this->load->view('Footer');
 		switch ($this->session->userdata('tipo')) {
 			case '0':
 				redirect(base_url().'dashboard');
@@ -25,6 +27,7 @@ class Login extends CI_Controller
 				$this->load->view('login_view');
 				break;		
 		}
+
 	}
 
 	public function login()
@@ -55,6 +58,7 @@ class Login extends CI_Controller
 	
 	public function token()
 	{
+		$this->load->view('fondo');
 		$token = md5(uniqid(rand(),true));
 		$this->session->set_userdata('token',$token);
 		return $token;
@@ -62,7 +66,10 @@ class Login extends CI_Controller
 	
 	public function logout()
 	{
+		$this->load->view('Footer');
+		$this->load->view('fondo');
 		$this->session->sess_destroy();
 		$this->load->view('login_view');
+
 	}
 }

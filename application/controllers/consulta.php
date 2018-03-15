@@ -3,7 +3,7 @@
 /**
  * 
  */
-class Dashboard extends CI_Controller {
+class Consulta extends CI_Controller {
 	
 	public function __construct() {
 		parent::__construct();
@@ -13,12 +13,8 @@ class Dashboard extends CI_Controller {
 	
 	public function index()
 	{
-		
-		if ($this->session->userdata('tipo') != 0 || $this->session->userdata('tipo') == ""){
-			echo "FALSE";
-		}else{
-			$this->load->view('dashboard_view');
-		}
-		
+		$this->load->view('dashboard_view');
+		$this->load->view('consulta');
+	
 	}
 }
