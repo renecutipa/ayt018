@@ -1,0 +1,118 @@
+
+
+/*#men-user {
+	font: 12px Arial, "Times New Roman", Times, serif, Georgia;
+	color: #FFF;
+	background-color: #633F9D;
+	padding: 0;
+	border-bottom: 1px solid #633F9D;
+	height: 20px;
+}*/
+
+#men-options {
+	font: 11px Arial, "Times New Roman", Times, serif, Georgia;
+	color: #555555;
+	padding: 0;
+	/*border-top: 1px solid #e5e5e5;*/
+	border-bottom: 1px solid #e5e5e5;
+	height: 24px;
+	background-color: #fff;
+	text-align: right;	
+}
+#men-toolbars {
+	font: 11px Arial, "Times New Roman", Times, serif, Georgia;
+	color: #555555;
+	padding: 5px 5px 5px 5px;
+	/*border-top: 1px solid #e5e5e5;*/
+	border-bottom: 1px solid #e5e5e5;
+	height: 106px;
+	background-color: #f5f5f5;
+}
+
+#divSistema
+{
+    position: absolute;
+    width: 60%;
+    /*right:300px;*/
+    left: 8px;
+    padding:  3px 0px 0px 5px;
+}
+
+#divUsuario
+{
+    position: absolute;
+    width: 400px;
+    text-align:right;
+    right: 115px;
+    padding:  4px 5px 0px 0px;
+}
+
+#divImagen
+{
+    position: absolute;
+    width: 20px;
+    right: 85px;
+    padding:  3px 5px 0px 0px;
+}
+
+#divSalir
+{
+    position: absolute;
+    width: 90px;
+    right: 0px;
+    padding: 3px 0px 0px 0px;
+    text-decoration: none;
+}
+a.Salir {
+   -moz-border-radius:3px;
+   border-radius:3px;
+   -webkit-border-radius:3px;
+   font-family:Tahoma;
+   text-decoration: none;
+   padding: 2px 5px 2px 5px;
+}
+a.Salir {color:#fff;background:#4cbde4;border:1px solid #33add7;text-shadow:1px 1px 1px #1e9cc7;font-weight:normal;font-size:12px;}
+a.Salir:hover {color:#fff;background:#33add7;border:1px solid #33add7;text-shadow:1px 1px 1px #1e9cc7;font-weight:normal;font-size:12px;}
+
+#divUnidad
+{
+    position: absolute;
+    width: 400px;
+    text-align:right;
+    right: 7px;
+    margin-top: 1px;
+    padding: 0px;
+    height: 22px;
+    z-index: 1000;
+}
+
+.hRight {
+    text-align: right !important;
+}
+.hCenter {
+    text-align: center !important;
+}
+
+.hLeft{
+    text-align: left !important;
+}
+
+.vRight{
+    vertical-align:middle !important;
+    text-align: right !important;
+}
+
+.vCenter{
+    vertical-align:middle !important;
+    text-align: center !important;
+}
+
+.vLeft{
+    vertical-align:middle !important;
+    text-align: left !important;
+}
+
+.iconAutocomplete {
+    background: white url(../images/pan_filtrar.png) right no-repeat !important;
+    padding-right: 17px !important;
+}

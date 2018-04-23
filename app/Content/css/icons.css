@@ -1,0 +1,1219 @@
+/* Small icons*/
+[class*="isw-"],[class*="isb-"]{ margin-left: 10px; padding: 11px 0px; width: 16px; height: 16px; font-size: 14px; font-weight: normal; display: block; float: left;}
+[class*="block"] [class*="isw-"], [class*="block"] [class*="isb-"] { display: inline-block; padding: 1px 0px 0px; margin-right: 5px; margin-left: 0px; line-height: 22px;}
+
+    /* icon small white */
+    .isw-archive{background: url('../img/icons/ws/ic_archive.png') center center no-repeat transparent;}
+    .isw-attachment{background: url('../img/icons/ws/ic_attachment.png') center center no-repeat transparent;}
+    .isw-bookmark{background: url('../img/icons/ws/ic_bookmark.png') center center no-repeat transparent;}
+    .isw-brush{background: url('../img/icons/ws/ic_brush.png') center center no-repeat transparent;}
+    .isw-calc{background: url('../img/icons/ws/ic_calc.png') center center no-repeat transparent;}
+    .isw-calendar{background: url('../img/icons/ws/ic_calendar.png') center center no-repeat transparent;}
+    .isw-cancel{background: url('../img/icons/ws/ic_cancel.png') center center no-repeat transparent;}
+    .isw-chat{background: url('../img/icons/ws/ic_chat.png') center center no-repeat transparent;}
+    .isw-chats{background: url('../img/icons/ws/ic_chats.png') center center no-repeat transparent;}
+    .isw-cloud{background: url('../img/icons/ws/ic_cloud.png') center center no-repeat transparent;}
+    .isw-delete{background: url('../img/icons/ws/ic_delete.png') center center no-repeat transparent;}
+    .isw-documents{background: url('../img/icons/ws/ic_documents.png') center center no-repeat transparent;}
+    .isw-down{background: url('../img/icons/ws/ic_down.png') center center no-repeat transparent;}
+    .isw-donw_circle{background: url('../img/icons/ws/ic_down_circle.png') center center no-repeat transparent;}
+    .isw-download{background: url('../img/icons/ws/ic_download.png') center center no-repeat transparent;}
+    .isw-edit{background: url('../img/icons/ws/ic_edit.png') center center no-repeat transparent;}
+    .isw-empty_document{background: url('../img/icons/ws/ic_empty_document.png') center center no-repeat transparent;}
+    .isw-favorite{background: url('../img/icons/ws/ic_favorite.png') center center no-repeat transparent;}
+    .isw-folder{background: url('../img/icons/ws/ic_folder.png') center center no-repeat transparent;}
+    .isw-fullscreen{background: url('../img/icons/ws/ic_fullscreen.png') center center no-repeat transparent;}
+    .isw-graph{background: url('../img/icons/ws/ic_graph.png') center center no-repeat transparent;}
+    .isw-grid{background: url('../img/icons/ws/ic_grid.png') center center no-repeat transparent;}
+    .isw-left{background: url('../img/icons/ws/ic_left.png') center center no-repeat transparent;}
+    .isw-left_circle{background: url('../img/icons/ws/ic_left_circle.png') center center no-repeat transparent;}
+    .isw-list{background: url('../img/icons/ws/ic_list.png') center center no-repeat transparent;}
+    .isw-lock{background: url('../img/icons/ws/ic_lock.png') center center no-repeat transparent;}
+    .isw-mail{background: url('../img/icons/ws/ic_mail.png') center center no-repeat transparent;}
+    .isw-minus{background: url('../img/icons/ws/ic_minus.png') center center no-repeat transparent;}
+    .isw-ok{background: url('../img/icons/ws/ic_ok.png') center center no-repeat transparent;}
+    .isw-picture{background: url('../img/icons/ws/ic_picture.png') center center no-repeat transparent;}
+    .isw-pin{background: url('../img/icons/ws/ic_pin.png') center center no-repeat transparent;}
+    .isw-plus{background: url('../img/icons/ws/ic_plus.png') center center no-repeat transparent;}
+    .isw-power{background: url('../img/icons/ws/ic_power.png') center center no-repeat transparent;}
+    .isw-print{background: url('../img/icons/ws/ic_print.png') center center no-repeat transparent;}
+    .isw-refresh{background: url('../img/icons/ws/ic_refresh.png') center center no-repeat transparent;}
+    .isw-right{background: url('../img/icons/ws/ic_right.png') center center no-repeat transparent;}
+    .isw-right_circle{background: url('../img/icons/ws/ic_right_circle.png') center center no-repeat transparent;}
+    .isw-settings{background: url('../img/icons/ws/ic_settings.png') center center no-repeat transparent;}
+    .isw-sound{background: url('../img/icons/ws/ic_sound.png') center center no-repeat transparent;}
+    .isw-sync{background: url('../img/icons/ws/ic_sync.png') center center no-repeat transparent;}
+    .isw-tag{background: url('../img/icons/ws/ic_tag.png') center center no-repeat transparent;}
+    .isw-target{background: url('../img/icons/ws/ic_target.png') center center no-repeat transparent;}
+    .isw-text_document{background: url('../img/icons/ws/ic_text_document.png') center center no-repeat transparent;}
+    .isw-time{background: url('../img/icons/ws/ic_time.png') center center no-repeat transparent;}
+    .isw-unlock{background: url('../img/icons/ws/ic_unlock.png') center center no-repeat transparent;}
+    .isw-up{background: url('../img/icons/ws/ic_up.png') center center no-repeat transparent;}
+    .isw-up_circle{background: url('../img/icons/ws/ic_up_circle.png') center center no-repeat transparent;}
+    .isw-user{background: url('../img/icons/ws/ic_user.png') center center no-repeat transparent;}
+    .isw-users{background: url('../img/icons/ws/ic_users.png') center center no-repeat transparent;}
+    .isw-zoom{background: url('../img/icons/ws/ic_zoom.png') center center no-repeat transparent;}
+    /* eof icon small whit */
+
+    /* icon small black */
+    .isb-archive{background: url('../img/icons/bs/ic_archive.png') center center no-repeat transparent;}
+    .isb-attachment{background: url('../img/icons/bs/ic_attachment.png') center center no-repeat transparent;}
+    .isb-bookmark{background: url('../img/icons/bs/ic_bookmark.png') center center no-repeat transparent;}
+    .isb-brush{background: url('../img/icons/bs/ic_brush.png') center center no-repeat transparent;}
+    .isb-calc{background: url('../img/icons/bs/ic_calc.png') center center no-repeat transparent;}
+    .isb-calendar{background: url('../img/icons/bs/ic_calendar.png') center center no-repeat transparent;}
+    .isb-cancel{background: url('../img/icons/bs/ic_cancel.png') center center no-repeat transparent;}
+    .isb-chat{background: url('../img/icons/bs/ic_chat.png') center center no-repeat transparent;}
+    .isb-chats{background: url('../img/icons/bs/ic_chats.png') center center no-repeat transparent;}
+    .isb-cloud{background: url('../img/icons/bs/ic_cloud.png') center center no-repeat transparent;}
+    .isb-delete{background: url('../img/icons/bs/ic_delete.png') center center no-repeat transparent;}
+    .isb-documents{background: url('../img/icons/bs/ic_documents.png') center center no-repeat transparent;}
+    .isb-down{background: url('../img/icons/bs/ic_down.png') center center no-repeat transparent;}
+    .isb-donw_circle{background: url('../img/icons/bs/ic_down_circle.png') center center no-repeat transparent;}
+    .isb-download{background: url('../img/icons/bs/ic_download.png') center center no-repeat transparent;}
+    .isb-edit{background: url('../img/icons/bs/ic_edit.png') center center no-repeat transparent;}
+    .isb-empty_document{background: url('../img/icons/bs/ic_empty_document.png') center center no-repeat transparent;}
+    .isb-favorite{background: url('../img/icons/bs/ic_favorite.png') center center no-repeat transparent;}
+    .isb-folder{background: url('../img/icons/bs/ic_folder.png') center center no-repeat transparent;}
+    .isb-fullscreen{background: url('../img/icons/bs/ic_fullscreen.png') center center no-repeat transparent;}
+    .isb-graph{background: url('../img/icons/bs/ic_graph.png') center center no-repeat transparent;}
+    .isb-grid{background: url('../img/icons/bs/ic_grid.png') center center no-repeat transparent;}
+    .isb-left{background: url('../img/icons/bs/ic_left.png') center center no-repeat transparent;}
+    .isb-left_circle{background: url('../img/icons/bs/ic_left_circle.png') center center no-repeat transparent;}
+    .isb-list{background: url('../img/icons/bs/ic_list.png') center center no-repeat transparent;}
+    .isb-lock{background: url('../img/icons/bs/ic_lock.png') center center no-repeat transparent;}
+    .isb-mail{background: url('../img/icons/bs/ic_mail.png') center center no-repeat transparent;}
+    .isb-minus{background: url('../img/icons/bs/ic_minus.png') center center no-repeat transparent;}
+    .isb-ok{background: url('../img/icons/bs/ic_ok.png') center center no-repeat transparent;}
+    .isb-picture{background: url('../img/icons/bs/ic_picture.png') center center no-repeat transparent;}
+    .isb-pin{background: url('../img/icons/bs/ic_pin.png') center center no-repeat transparent;}
+    .isb-plus{background: url('../img/icons/bs/ic_plus.png') center center no-repeat transparent;}
+    .isb-power{background: url('../img/icons/bs/ic_power.png') center center no-repeat transparent;}
+    .isb-print{background: url('../img/icons/bs/ic_print.png') center center no-repeat transparent;}
+    .isb-refresh{background: url('../img/icons/bs/ic_refresh.png') center center no-repeat transparent;}
+    .isb-right{background: url('../img/icons/bs/ic_right.png') center center no-repeat transparent;}
+    .isb-right_circle{background: url('../img/icons/bs/ic_right_circle.png') center center no-repeat transparent;}
+    .isb-settings{background: url('../img/icons/bs/ic_settings.png') center center no-repeat transparent;}
+    .isb-sound{background: url('../img/icons/bs/ic_sound.png') center center no-repeat transparent;}
+    .isb-sync{background: url('../img/icons/bs/ic_sync.png') center center no-repeat transparent;}
+    .isb-tag{background: url('../img/icons/bs/ic_tag.png') center center no-repeat transparent;}
+    .isb-target{background: url('../img/icons/bs/ic_target.png') center center no-repeat transparent;}
+    .isb-text_document{background: url('../img/icons/bs/ic_text_document.png') center center no-repeat transparent;}
+    .isb-time{background: url('../img/icons/bs/ic_time.png') center center no-repeat transparent;}
+    .isb-unlock{background: url('../img/icons/bs/ic_unlock.png') center center no-repeat transparent;}
+    .isb-up{background: url('../img/icons/bs/ic_up.png') center center no-repeat transparent;}
+    .isb-up_circle{background: url('../img/icons/bs/ic_up_circle.png') center center no-repeat transparent;}
+    .isb-user{background: url('../img/icons/bs/ic_user.png') center center no-repeat transparent;}
+    .isb-users{background: url('../img/icons/bs/ic_users.png') center center no-repeat transparent;}
+    .isb-zoom{background: url('../img/icons/bs/ic_zoom.png') center center no-repeat transparent;}
+    /* eof icon small black */
+
+    [class*="isc-"]{ margin-left: 10px; padding: 11px 0px; width: 16px; height: 16px; font-size: 14px; font-weight: normal; display: block; float: left; background-repeat: no-repeat; background-position: center; background-color: transparent; }
+[class*="block"] [class*="isc-"] { display: inline-block; padding: 1px 0px 0px; margin-right: 5px; margin-left: 5px; line-height: 22px; background-repeat: no-repeat; background-position: center; background-color: transparent; margin-top:4px; }
+
+    /* icon small color */
+    .isc-chart_organization{background-image: url('../img/icons/cs/ic_chart_organization.png') ;}
+    .isc-organization{background-image: url('../img/icons/cs/ic_organization.png');}
+    .isc-document{background-image: url('../img/icons/cs/ic_document.png');}
+    /*.isc-chart_bar{background-image: url('../img/icons/cs/ic_chart_bar.png');}*/
+    .isc-find_document{background-image: url('../img/icons/cs/ic_find_document.png');}
+    .isc-database_green{background-image: url('../img/icons/cs/ic_database_green.png');}
+    /*.isc-application{background-image: url('../img/icons/cs/ic_application.png');}*/
+    /*.isc-book{background-image: url('../img/icons/cs/ic_book.png');}*/
+    .isc-sites{background-image: url('../img/icons/cs/ic_sites.png');}
+    .isc-news{background-image: url('../img/icons/cs/ic_news.png');}
+    .isc-document_open{background-image: url('../img/icons/cs/ic_document_open.png');}
+    
+    .isc-accept{background-image: url('../img/icons/cs/ic_accept.png');}
+    .isc-add{background-image: url('../img/icons/cs/ic_add.png');}
+    .isc-anchor{background-image: url('../img/icons/cs/ic_anchor.png');}
+    .isc-application{background-image: url('../img/icons/cs/ic_application.png');}
+    .isc-application_add{background-image: url('../img/icons/cs/ic_application_add.png');}
+    .isc-application_cascade{background-image: url('../img/icons/cs/ic_application_cascade.png');}
+    .isc-application_delete{background-image: url('../img/icons/cs/ic_application_delete.png');}
+    .isc-application_double{background-image: url('../img/icons/cs/ic_application_double.png');}
+    .isc-application_edit{background-image: url('../img/icons/cs/ic_application_edit.png');}
+    .isc-application_error{background-image: url('../img/icons/cs/ic_application_error.png');}
+    .isc-application_form{background-image: url('../img/icons/cs/ic_application_form.png');}
+    .isc-application_form_add{background-image: url('../img/icons/cs/ic_application_form_add.png');}
+    .isc-application_form_delete{background-image: url('../img/icons/cs/ic_application_form_delete.png');}
+    .isc-application_form_edit{background-image: url('../img/icons/cs/ic_application_form_edit.png');}
+    .isc-application_form_magnify{background-image: url('../img/icons/cs/ic_application_form_magnify.png');}
+    .isc-application_go{background-image: url('../img/icons/cs/ic_application_go.png');}
+    .isc-application_home{background-image: url('../img/icons/cs/ic_application_home.png');}
+    .isc-application_key{background-image: url('../img/icons/cs/ic_application_key.png');}
+    .isc-application_side_boxes{background-image: url('../img/icons/cs/ic_application_side_boxes.png');}
+    .isc-application_side_list{background-image: url('../img/icons/cs/ic_application_side_list.png');}
+    .isc-application_view_icons{background-image: url('../img/icons/cs/ic_application_view_icons.png');}
+    .isc-application_view_list{background-image: url('../img/icons/cs/ic_application_view_list.png');}
+    .isc-application_view_tile{background-image: url('../img/icons/cs/ic_application_view_tile.png');}
+    .isc-arrow_down{background-image: url('../img/icons/cs/ic_arrow_down.png');}
+    .isc-arrow_in{background-image: url('../img/icons/cs/ic_arrow_in.png');}
+    .isc-arrow_inout{background-image: url('../img/icons/cs/ic_arrow_inout.png');}
+    .isc-arrow_left{background-image: url('../img/icons/cs/ic_arrow_left.png');}
+    .isc-arrow_out{background-image: url('../img/icons/cs/ic_arrow_out.png');}
+    .isc-arrow_redo{background-image: url('../img/icons/cs/ic_arrow_redo.png');}
+    .isc-arrow_refresh{background-image: url('../img/icons/cs/ic_arrow_refresh.png');}
+    .isc-arrow_refresh_small{background-image: url('../img/icons/cs/ic_arrow_refresh_small.png');}
+    .isc-arrow_right{background-image: url('../img/icons/cs/ic_arrow_right.png');}
+    .isc-arrow_undo{background-image: url('../img/icons/cs/ic_arrow_undo.png');}
+    .isc-arrow_up{background-image: url('../img/icons/cs/ic_arrow_up.png');}
+    .isc-asterisk_orange{background-image: url('../img/icons/cs/ic_asterisk_orange.png');}
+    .isc-asterisk_yellow{background-image: url('../img/icons/cs/ic_asterisk_yellow.png');}
+    .isc-attach{background-image: url('../img/icons/cs/ic_attach.png');}
+    .isc-award_star_gold_1{background-image: url('../img/icons/cs/ic_award_star_gold_1.png');}
+    .isc-award_star_gold_2{background-image: url('../img/icons/cs/ic_award_star_gold_2.png');}
+    .isc-award_star_gold_3{background-image: url('../img/icons/cs/ic_award_star_gold_3.png');}
+    .isc-award_star_silver_1{background-image: url('../img/icons/cs/ic_award_star_silver_1.png');}
+    .isc-award_star_silver_2{background-image: url('../img/icons/cs/ic_award_star_silver_2.png');}
+    .isc-award_star_silver_3{background-image: url('../img/icons/cs/ic_award_star_silver_3.png');}
+    .isc-basket{background-image: url('../img/icons/cs/ic_basket.png');}
+    .isc-basket_go{background-image: url('../img/icons/cs/ic_basket_go.png');}
+    .isc-basket_put{background-image: url('../img/icons/cs/ic_basket_put.png');}
+    .isc-basket_remove{background-image: url('../img/icons/cs/ic_basket_remove.png');}
+    .isc-book{background-image: url('../img/icons/cs/ic_book.png');}
+    .isc-book_add{background-image: url('../img/icons/cs/ic_book_add.png');}
+    .isc-book_addresses{background-image: url('../img/icons/cs/ic_book_addresses.png');}
+    .isc-book_delete{background-image: url('../img/icons/cs/ic_book_delete.png');}
+    .isc-book_edit{background-image: url('../img/icons/cs/ic_book_edit.png');}
+    .isc-book_error{background-image: url('../img/icons/cs/ic_book_error.png');}
+    .isc-book_go{background-image: url('../img/icons/cs/ic_book_go.png');}
+    .isc-book_key{background-image: url('../img/icons/cs/ic_book_key.png');}
+    .isc-book_link{background-image: url('../img/icons/cs/ic_book_link.png');}
+    .isc-book_next{background-image: url('../img/icons/cs/ic_book_next.png');}
+    .isc-book_open{background-image: url('../img/icons/cs/ic_book_open.png');}
+    .isc-book_previous{background-image: url('../img/icons/cs/ic_book_previous.png');}
+    .isc-box{background-image: url('../img/icons/cs/ic_box.png');}
+    .isc-bricks{background-image: url('../img/icons/cs/ic_bricks.png');}
+    .isc-briefcase{background-image: url('../img/icons/cs/ic_briefcase.png');}
+    .isc-bug{background-image: url('../img/icons/cs/ic_bug.png');}
+    .isc-building{background-image: url('../img/icons/cs/ic_building.png');}
+    .isc-bullet_add{background-image: url('../img/icons/cs/ic_bullet_add.png');}
+    .isc-bullet_arrow_bottom{background-image: url('../img/icons/cs/ic_bullet_arrow_bottom.png');}
+    .isc-bullet_arrow_down{background-image: url('../img/icons/cs/ic_bullet_arrow_down.png');}
+    .isc-bullet_arrow_top{background-image: url('../img/icons/cs/ic_bullet_arrow_top.png');}
+    .isc-bullet_arrow_up{background-image: url('../img/icons/cs/ic_bullet_arrow_up.png');}
+    .isc-bullet_black{background-image: url('../img/icons/cs/ic_bullet_black.png');}
+    .isc-bullet_blue{background-image: url('../img/icons/cs/ic_bullet_blue.png');}
+    .isc-bullet_delete{background-image: url('../img/icons/cs/ic_bullet_delete.png');}
+    .isc-bullet_disk{background-image: url('../img/icons/cs/ic_bullet_disk.png');}
+    .isc-bullet_error{background-image: url('../img/icons/cs/ic_bullet_error.png');}
+    .isc-bullet_feed{background-image: url('../img/icons/cs/ic_bullet_feed.png');}
+    .isc-bullet_go{background-image: url('../img/icons/cs/ic_bullet_go.png');}
+    .isc-bullet_green{background-image: url('../img/icons/cs/ic_bullet_green.png');}
+    .isc-bullet_key{background-image: url('../img/icons/cs/ic_bullet_key.png');}
+    .isc-bullet_orange{background-image: url('../img/icons/cs/ic_bullet_orange.png');}
+    .isc-bullet_picture{background-image: url('../img/icons/cs/ic_bullet_picture.png');}
+    .isc-bullet_pink{background-image: url('../img/icons/cs/ic_bullet_pink.png');}
+    .isc-bullet_purple{background-image: url('../img/icons/cs/ic_bullet_purple.png');}
+    .isc-bullet_red{background-image: url('../img/icons/cs/ic_bullet_red.png');}
+    .isc-bullet_star{background-image: url('../img/icons/cs/ic_bullet_star.png');}
+    .isc-bullet_toggle_minus{background-image: url('../img/icons/cs/ic_bullet_toggle_minus.png');}
+    .isc-bullet_toggle_plus{background-image: url('../img/icons/cs/ic_bullet_toggle_plus.png');}
+    .isc-bullet_white{background-image: url('../img/icons/cs/ic_bullet_white.png');}
+    .isc-bullet_wrench{background-image: url('../img/icons/cs/ic_bullet_wrench.png');}
+    .isc-bullet_yellow{background-image: url('../img/icons/cs/ic_bullet_yellow.png');}
+    .isc-cake{background-image: url('../img/icons/cs/ic_cake.png');}
+    .isc-calculator{background-image: url('../img/icons/cs/ic_calculator.png');}
+    .isc-calendar{background-image: url('../img/icons/cs/ic_calendar.png');}
+    .isc-calendar_add{background-image: url('../img/icons/cs/ic_calendar_add.png');}
+    .isc-calendar_delete{background-image: url('../img/icons/cs/ic_calendar_delete.png');}
+    .isc-calendar_edit{background-image: url('../img/icons/cs/ic_calendar_edit.png');}
+    .isc-calendar_link{background-image: url('../img/icons/cs/ic_calendar_link.png');}
+    .isc-calendar_view_day{background-image: url('../img/icons/cs/ic_calendar_view_day.png');}
+    .isc-calendar_view_month{background-image: url('../img/icons/cs/ic_calendar_view_month.png');}
+    .isc-calendar_view_week{background-image: url('../img/icons/cs/ic_calendar_view_week.png');}
+    .isc-camera{background-image: url('../img/icons/cs/ic_camera.png');}
+    .isc-cancel{background-image: url('../img/icons/cs/ic_cancel.png');}
+    .isc-car{background-image: url('../img/icons/cs/ic_car.png');}
+    .isc-cart{background-image: url('../img/icons/cs/ic_cart.png');}
+    .isc-cart_add{background-image: url('../img/icons/cs/ic_cart_add.png');}
+    .isc-cart_delete{background-image: url('../img/icons/cs/ic_cart_delete.png');}
+    .isc-cart_edit{background-image: url('../img/icons/cs/ic_cart_edit.png');}
+    .isc-cart_error{background-image: url('../img/icons/cs/ic_cart_error.png');}
+    .isc-cart_go{background-image: url('../img/icons/cs/ic_cart_go.png');}
+    .isc-cart_put{background-image: url('../img/icons/cs/ic_cart_put.png');}
+    .isc-cart_remove{background-image: url('../img/icons/cs/ic_cart_remove.png');}
+    .isc-cd{background-image: url('../img/icons/cs/ic_cd.png');}
+    .isc-chart_bar{background-image: url('../img/icons/cs/ic_chart_bar.png');}
+    .isc-chart_bar_add{background-image: url('../img/icons/cs/ic_chart_bar_add.png');}
+    .isc-chart_bar_delete{background-image: url('../img/icons/cs/ic_chart_bar_delete.png');}
+    .isc-chart_bar_edit{background-image: url('../img/icons/cs/ic_chart_bar_edit.png');}
+    .isc-chart_bar_error{background-image: url('../img/icons/cs/ic_chart_bar_error.png');}
+    .isc-chart_bar_link{background-image: url('../img/icons/cs/ic_chart_bar_link.png');}
+    .isc-chart_curve{background-image: url('../img/icons/cs/ic_chart_curve.png');}
+    .isc-chart_curve_add{background-image: url('../img/icons/cs/ic_chart_curve_add.png');}
+    .isc-chart_curve_delete{background-image: url('../img/icons/cs/ic_chart_curve_delete.png');}
+    .isc-chart_curve_edit{background-image: url('../img/icons/cs/ic_chart_curve_edit.png');}
+    .isc-chart_curve_error{background-image: url('../img/icons/cs/ic_chart_curve_error.png');}
+    .isc-chart_curve_go{background-image: url('../img/icons/cs/ic_chart_curve_go.png');}
+    .isc-chart_curve_link{background-image: url('../img/icons/cs/ic_chart_curve_link.png');}
+    .isc-chart_line{background-image: url('../img/icons/cs/ic_chart_line.png');}
+    .isc-chart_line_add{background-image: url('../img/icons/cs/ic_chart_line_add.png');}
+    .isc-chart_line_delete{background-image: url('../img/icons/cs/ic_chart_line_delete.png');}
+    .isc-chart_line_edit{background-image: url('../img/icons/cs/ic_chart_line_edit.png');}
+    .isc-chart_line_error{background-image: url('../img/icons/cs/ic_chart_line_error.png');}
+    .isc-chart_line_link{background-image: url('../img/icons/cs/ic_chart_line_link.png');}
+    .isc-chart_organisation{background-image: url('../img/icons/cs/ic_chart_organisation.png');}
+    .isc-chart_organisation_add{background-image: url('../img/icons/cs/ic_chart_organisation_add.png');}
+    .isc-chart_organisation_delete{background-image: url('../img/icons/cs/ic_chart_organisation_delete.png');}
+    .isc-chart_pie{background-image: url('../img/icons/cs/ic_chart_pie.png');}
+    .isc-chart_pie_add{background-image: url('../img/icons/cs/ic_chart_pie_add.png');}
+    .isc-chart_pie_delete{background-image: url('../img/icons/cs/ic_chart_pie_delete.png');}
+    .isc-chart_pie_edit{background-image: url('../img/icons/cs/ic_chart_pie_edit.png');}
+    .isc-chart_pie_error{background-image: url('../img/icons/cs/ic_chart_pie_error.png');}
+    .isc-chart_pie_link{background-image: url('../img/icons/cs/ic_chart_pie_link.png');}
+    .isc-clock{background-image: url('../img/icons/cs/ic_clock.png');}
+    .isc-cog{background-image: url('../img/icons/cs/ic_cog.png');}
+    .isc-coins{background-image: url('../img/icons/cs/ic_coins.png');}
+    .isc-coins_add{background-image: url('../img/icons/cs/ic_coins_add.png');}
+    .isc-coins_delete{background-image: url('../img/icons/cs/ic_coins_delete.png');}
+    .isc-color_swatch{background-image: url('../img/icons/cs/ic_color_swatch.png');}
+    .isc-color_wheel{background-image: url('../img/icons/cs/ic_color_wheel.png');}
+    .isc-comment{background-image: url('../img/icons/cs/ic_comment.png');}
+    .isc-comment_add{background-image: url('../img/icons/cs/ic_comment_add.png');}
+    .isc-comment_delete{background-image: url('../img/icons/cs/ic_comment_delete.png');}
+    .isc-comment_edit{background-image: url('../img/icons/cs/ic_comment_edit.png');}
+    .isc-comments{background-image: url('../img/icons/cs/ic_comments.png');}
+    .isc-comments_add{background-image: url('../img/icons/cs/ic_comments_add.png');}
+    .isc-comments_delete{background-image: url('../img/icons/cs/ic_comments_delete.png');}
+    .isc-compress{background-image: url('../img/icons/cs/ic_compress.png');}
+    .isc-computer{background-image: url('../img/icons/cs/ic_computer.png');}
+    .isc-computer_key{background-image: url('../img/icons/cs/ic_computer_key.png');}
+    .isc-connect{background-image: url('../img/icons/cs/ic_connect.png');}
+    .isc-contrast{background-image: url('../img/icons/cs/ic_contrast.png');}
+    .isc-control_eject{background-image: url('../img/icons/cs/ic_control_eject.png');}
+    .isc-control_eject_blue{background-image: url('../img/icons/cs/ic_control_eject_blue.png');}
+    .isc-control_end{background-image: url('../img/icons/cs/ic_control_end.png');}
+    .isc-control_end_blue{background-image: url('../img/icons/cs/ic_control_end_blue.png');}
+    .isc-control_equalizer{background-image: url('../img/icons/cs/ic_control_equalizer.png');}
+    .isc-control_equalizer_blue{background-image: url('../img/icons/cs/ic_control_equalizer_blue.png');}
+    .isc-control_fastforward{background-image: url('../img/icons/cs/ic_control_fastforward.png');}
+    .isc-control_fastforward_blue{background-image: url('../img/icons/cs/ic_control_fastforward_blue.png');}
+    .isc-control_pause{background-image: url('../img/icons/cs/ic_control_pause.png');}
+    .isc-control_pause_blue{background-image: url('../img/icons/cs/ic_control_pause_blue.png');}
+    .isc-control_play{background-image: url('../img/icons/cs/ic_control_play.png');}
+    .isc-control_play_blue{background-image: url('../img/icons/cs/ic_control_play_blue.png');}
+    .isc-control_repeat{background-image: url('../img/icons/cs/ic_control_repeat.png');}
+    .isc-control_repeat_blue{background-image: url('../img/icons/cs/ic_control_repeat_blue.png');}
+    .isc-control_rewind{background-image: url('../img/icons/cs/ic_control_rewind.png');}
+    .isc-control_rewind_blue{background-image: url('../img/icons/cs/ic_control_rewind_blue.png');}
+    .isc-control_start{background-image: url('../img/icons/cs/ic_control_start.png');}
+    .isc-control_start_blue{background-image: url('../img/icons/cs/ic_control_start_blue.png');}
+    .isc-control_stop{background-image: url('../img/icons/cs/ic_control_stop.png');}
+    .isc-control_stop_blue{background-image: url('../img/icons/cs/ic_control_stop_blue.png');}
+    .isc-controller{background-image: url('../img/icons/cs/ic_controller.png');}
+    .isc-creditcards{background-image: url('../img/icons/cs/ic_creditcards.png');}
+    .isc-cross{background-image: url('../img/icons/cs/ic_cross.png');}
+    .isc-css{background-image: url('../img/icons/cs/ic_css.png');}
+    .isc-cup{background-image: url('../img/icons/cs/ic_cup.png');}
+    .isc-cursor{background-image: url('../img/icons/cs/ic_cursor.png');}
+    .isc-cut{background-image: url('../img/icons/cs/ic_cut.png');}
+    .isc-cut_red{background-image: url('../img/icons/cs/ic_cut_red.png');}
+    .isc-database{background-image: url('../img/icons/cs/ic_database.png');}
+    .isc-database_add{background-image: url('../img/icons/cs/ic_database_add.png');}
+    .isc-database_connect{background-image: url('../img/icons/cs/ic_database_connect.png');}
+    .isc-database_delete{background-image: url('../img/icons/cs/ic_database_delete.png');}
+    .isc-database_edit{background-image: url('../img/icons/cs/ic_database_edit.png');}
+    .isc-database_error{background-image: url('../img/icons/cs/ic_database_error.png');}
+    .isc-database_gear{background-image: url('../img/icons/cs/ic_database_gear.png');}
+    .isc-database_go{background-image: url('../img/icons/cs/ic_database_go.png');}
+    .isc-database_key{background-image: url('../img/icons/cs/ic_database_key.png');}
+    .isc-database_lightning{background-image: url('../img/icons/cs/ic_database_lightning.png');}
+    .isc-database_link{background-image: url('../img/icons/cs/ic_database_link.png');}
+    .isc-database_refresh{background-image: url('../img/icons/cs/ic_database_refresh.png');}
+    .isc-database_save{background-image: url('../img/icons/cs/ic_database_save.png');}
+    .isc-database_table{background-image: url('../img/icons/cs/ic_database_table.png');}
+    .isc-date{background-image: url('../img/icons/cs/ic_date.png');}
+    .isc-date_add{background-image: url('../img/icons/cs/ic_date_add.png');}
+    .isc-date_delete{background-image: url('../img/icons/cs/ic_date_delete.png');}
+    .isc-date_edit{background-image: url('../img/icons/cs/ic_date_edit.png');}
+    .isc-date_error{background-image: url('../img/icons/cs/ic_date_error.png');}
+    .isc-date_go{background-image: url('../img/icons/cs/ic_date_go.png');}
+    .isc-date_link{background-image: url('../img/icons/cs/ic_date_link.png');}
+    .isc-date_magnify{background-image: url('../img/icons/cs/ic_date_magnify.png');}
+    .isc-date_next{background-image: url('../img/icons/cs/ic_date_next.png');}
+    .isc-date_previous{background-image: url('../img/icons/cs/ic_date_previous.png');}
+    .isc-delete{background-image: url('../img/icons/cs/ic_delete.png');}
+    .isc-disconnect{background-image: url('../img/icons/cs/ic_disconnect.png');}
+    .isc-disk{background-image: url('../img/icons/cs/ic_disk.png');}
+    .isc-disk_multiple{background-image: url('../img/icons/cs/ic_disk_multiple.png');}
+    .isc-door{background-image: url('../img/icons/cs/ic_door.png');}
+    .isc-door_in{background-image: url('../img/icons/cs/ic_door_in.png');}
+    .isc-door_open{background-image: url('../img/icons/cs/ic_door_open.png');}
+    .isc-door_out{background-image: url('../img/icons/cs/ic_door_out.png');}
+    .isc-drink{background-image: url('../img/icons/cs/ic_drink.png');}
+    .isc-drink_empty{background-image: url('../img/icons/cs/ic_drink_empty.png');}
+    .isc-drive{background-image: url('../img/icons/cs/ic_drive.png');}
+    .isc-dvd{background-image: url('../img/icons/cs/ic_dvd.png');}
+    .isc-email{background-image: url('../img/icons/cs/ic_email.png');}
+    .isc-email_add{background-image: url('../img/icons/cs/ic_email_add.png');}
+    .isc-email_attach{background-image: url('../img/icons/cs/ic_email_attach.png');}
+    .isc-email_delete{background-image: url('../img/icons/cs/ic_email_delete.png');}
+    .isc-email_edit{background-image: url('../img/icons/cs/ic_email_edit.png');}
+    .isc-email_error{background-image: url('../img/icons/cs/ic_email_error.png');}
+    .isc-email_go{background-image: url('../img/icons/cs/ic_email_go.png');}
+    .isc-email_link{background-image: url('../img/icons/cs/ic_email_link.png');}
+    .isc-email_open{background-image: url('../img/icons/cs/ic_email_open.png');}
+    .isc-email_open_image{background-image: url('../img/icons/cs/ic_email_open_image.png');}
+    .isc-error{background-image: url('../img/icons/cs/ic_error.png');}
+    .isc-error_add{background-image: url('../img/icons/cs/ic_error_add.png');}
+    .isc-error_delete{background-image: url('../img/icons/cs/ic_error_delete.png');}
+    .isc-error_go{background-image: url('../img/icons/cs/ic_error_go.png');}
+    .isc-exclamation{background-image: url('../img/icons/cs/ic_exclamation.png');}
+    .isc-eye{background-image: url('../img/icons/cs/ic_eye.png');}
+    .isc-feed{background-image: url('../img/icons/cs/ic_feed.png');}
+    .isc-female{background-image: url('../img/icons/cs/ic_female.png');}
+    .isc-film{background-image: url('../img/icons/cs/ic_film.png');}
+    .isc-find{background-image: url('../img/icons/cs/ic_find.png');}
+    .isc-flag_blue{background-image: url('../img/icons/cs/ic_flag_blue.png');}
+    .isc-flag_green{background-image: url('../img/icons/cs/ic_flag_green.png');}
+    .isc-flag_orange{background-image: url('../img/icons/cs/ic_flag_orange.png');}
+    .isc-flag_pink{background-image: url('../img/icons/cs/ic_flag_pink.png');}
+    .isc-flag_purple{background-image: url('../img/icons/cs/ic_flag_purple.png');}
+    .isc-flag_red{background-image: url('../img/icons/cs/ic_flag_red.png');}
+    .isc-flag_yellow{background-image: url('../img/icons/cs/ic_flag_yellow.png');}
+    .isc-folder{background-image: url('../img/icons/cs/ic_folder.png');}
+    .isc-folder_add{background-image: url('../img/icons/cs/ic_folder_add.png');}
+    .isc-folder_bell{background-image: url('../img/icons/cs/ic_folder_bell.png');}
+    .isc-folder_brick{background-image: url('../img/icons/cs/ic_folder_brick.png');}
+    .isc-folder_bug{background-image: url('../img/icons/cs/ic_folder_bug.png');}
+    .isc-folder_camera{background-image: url('../img/icons/cs/ic_folder_camera.png');}
+    .isc-folder_database{background-image: url('../img/icons/cs/ic_folder_database.png');}
+    .isc-folder_delete{background-image: url('../img/icons/cs/ic_folder_delete.png');}
+    .isc-folder_edit{background-image: url('../img/icons/cs/ic_folder_edit.png');}
+    .isc-folder_error{background-image: url('../img/icons/cs/ic_folder_error.png');}
+    .isc-folder_explore{background-image: url('../img/icons/cs/ic_folder_explore.png');}
+    .isc-folder_feed{background-image: url('../img/icons/cs/ic_folder_feed.png');}
+    .isc-folder_find{background-image: url('../img/icons/cs/ic_folder_find.png');}
+    .isc-folder_go{background-image: url('../img/icons/cs/ic_folder_go.png');}
+    .isc-folder_heart{background-image: url('../img/icons/cs/ic_folder_heart.png');}
+    .isc-folder_image{background-image: url('../img/icons/cs/ic_folder_image.png');}
+    .isc-folder_key{background-image: url('../img/icons/cs/ic_folder_key.png');}
+    .isc-folder_lightbulb{background-image: url('../img/icons/cs/ic_folder_lightbulb.png');}
+    .isc-folder_link{background-image: url('../img/icons/cs/ic_folder_link.png');}
+    .isc-folder_magnify{background-image: url('../img/icons/cs/ic_folder_magnify.png');}
+    .isc-folder_page{background-image: url('../img/icons/cs/ic_folder_page.png');}
+    .isc-folder_page_white{background-image: url('../img/icons/cs/ic_folder_page_white.png');}
+    .isc-folder_palette{background-image: url('../img/icons/cs/ic_folder_palette.png');}
+    .isc-folder_picture{background-image: url('../img/icons/cs/ic_folder_picture.png');}
+    .isc-folder_star{background-image: url('../img/icons/cs/ic_folder_star.png');}
+    .isc-folder_table{background-image: url('../img/icons/cs/ic_folder_table.png');}
+    .isc-folder_user{background-image: url('../img/icons/cs/ic_folder_user.png');}
+    .isc-folder_wrench{background-image: url('../img/icons/cs/ic_folder_wrench.png');}
+    .isc-font{background-image: url('../img/icons/cs/ic_font.png');}
+    .isc-group{background-image: url('../img/icons/cs/ic_group.png');}
+    .isc-group_add{background-image: url('../img/icons/cs/ic_group_add.png');}
+    .isc-group_delete{background-image: url('../img/icons/cs/ic_group_delete.png');}
+    .isc-group_edit{background-image: url('../img/icons/cs/ic_group_edit.png');}
+    .isc-group_error{background-image: url('../img/icons/cs/ic_group_error.png');}
+    .isc-group_gear{background-image: url('../img/icons/cs/ic_group_gear.png');}
+    .isc-group_go{background-image: url('../img/icons/cs/ic_group_go.png');}
+    .isc-group_key{background-image: url('../img/icons/cs/ic_group_key.png');}
+    .isc-group_link{background-image: url('../img/icons/cs/ic_group_link.png');}
+    .isc-heart{background-image: url('../img/icons/cs/ic_heart.png');}
+    .isc-help{background-image: url('../img/icons/cs/ic_help.png');}
+    .isc-hourglass{background-image: url('../img/icons/cs/ic_hourglass.png');}
+    .isc-house{background-image: url('../img/icons/cs/ic_house.png');}
+    .isc-house_go{background-image: url('../img/icons/cs/ic_house_go.png');}
+    .isc-house_link{background-image: url('../img/icons/cs/ic_house_link.png');}
+    .isc-html{background-image: url('../img/icons/cs/ic_html.png');}
+    .isc-image{background-image: url('../img/icons/cs/ic_image.png');}
+    .isc-image_add{background-image: url('../img/icons/cs/ic_image_add.png');}
+    .isc-image_delete{background-image: url('../img/icons/cs/ic_image_delete.png');}
+    .isc-image_edit{background-image: url('../img/icons/cs/ic_image_edit.png');}
+    .isc-image_link{background-image: url('../img/icons/cs/ic_image_link.png');}
+    .isc-images{background-image: url('../img/icons/cs/ic_images.png');}
+    .isc-information{background-image: url('../img/icons/cs/ic_information.png');}
+    .isc-ipod{background-image: url('../img/icons/cs/ic_ipod.png');}
+    .isc-ipod_sound{background-image: url('../img/icons/cs/ic_ipod_sound.png');}
+    .isc-joystick{background-image: url('../img/icons/cs/ic_joystick.png');}
+    .isc-key{background-image: url('../img/icons/cs/ic_key.png');}
+    .isc-key_add{background-image: url('../img/icons/cs/ic_key_add.png');}
+    .isc-key_delete{background-image: url('../img/icons/cs/ic_key_delete.png');}
+    .isc-key_go{background-image: url('../img/icons/cs/ic_key_go.png');}
+    .isc-keyboard{background-image: url('../img/icons/cs/ic_keyboard.png');}
+    .isc-layers{background-image: url('../img/icons/cs/ic_layers.png');}
+    .isc-layout{background-image: url('../img/icons/cs/ic_layout.png');}
+    .isc-layout_add{background-image: url('../img/icons/cs/ic_layout_add.png');}
+    .isc-layout_content{background-image: url('../img/icons/cs/ic_layout_content.png');}
+    .isc-layout_delete{background-image: url('../img/icons/cs/ic_layout_delete.png');}
+    .isc-layout_edit{background-image: url('../img/icons/cs/ic_layout_edit.png');}
+    .isc-layout_error{background-image: url('../img/icons/cs/ic_layout_error.png');}
+    .isc-layout_header{background-image: url('../img/icons/cs/ic_layout_header.png');}
+    .isc-layout_link{background-image: url('../img/icons/cs/ic_layout_link.png');}
+    .isc-layout_sidebar{background-image: url('../img/icons/cs/ic_layout_sidebar.png');}
+    .isc-lightbulb{background-image: url('../img/icons/cs/ic_lightbulb.png');}
+    .isc-lightbulb_off{background-image: url('../img/icons/cs/ic_lightbulb_off.png');}
+    .isc-lightning{background-image: url('../img/icons/cs/ic_lightning.png');}
+    .isc-link{background-image: url('../img/icons/cs/ic_link.png');}
+    .isc-lock{background-image: url('../img/icons/cs/ic_lock.png');}
+    .isc-lock_open{background-image: url('../img/icons/cs/ic_lock_open.png');}
+    .isc-lorry{background-image: url('../img/icons/cs/ic_lorry.png');}
+    .isc-magifier_zoom_out{background-image: url('../img/icons/cs/ic_magifier_zoom_out.png');}
+    .isc-magnifier{background-image: url('../img/icons/cs/ic_magnifier.png');}
+    .isc-magnifier_zoom_in{background-image: url('../img/icons/cs/ic_magnifier_zoom_in.png');}
+    .isc-male{background-image: url('../img/icons/cs/ic_male.png');}
+    .isc-map{background-image: url('../img/icons/cs/ic_map.png');}
+    .isc-map_magnify{background-image: url('../img/icons/cs/ic_map_magnify.png');}
+    .isc-medal_bronze_1{background-image: url('../img/icons/cs/ic_medal_bronze_1.png');}
+    .isc-medal_bronze_2{background-image: url('../img/icons/cs/ic_medal_bronze_2.png');}
+    .isc-medal_bronze_3{background-image: url('../img/icons/cs/ic_medal_bronze_3.png');}
+    .isc-medal_gold_1{background-image: url('../img/icons/cs/ic_medal_gold_1.png');}
+    .isc-medal_gold_2{background-image: url('../img/icons/cs/ic_medal_gold_2.png');}
+    .isc-medal_gold_3{background-image: url('../img/icons/cs/ic_medal_gold_3.png');}
+    .isc-medal_silver_1{background-image: url('../img/icons/cs/ic_medal_silver_1.png');}
+    .isc-medal_silver_2{background-image: url('../img/icons/cs/ic_medal_silver_2.png');}
+    .isc-medal_silver_3{background-image: url('../img/icons/cs/ic_medal_silver_3.png');}
+    .isc-money{background-image: url('../img/icons/cs/ic_money.png');}
+    .isc-money_add{background-image: url('../img/icons/cs/ic_money_add.png');}
+    .isc-money_delete{background-image: url('../img/icons/cs/ic_money_delete.png');}
+    .isc-money_dollar{background-image: url('../img/icons/cs/ic_money_dollar.png');}
+    .isc-money_euro{background-image: url('../img/icons/cs/ic_money_euro.png');}
+    .isc-money_pound{background-image: url('../img/icons/cs/ic_money_pound.png');}
+    .isc-money_yen{background-image: url('../img/icons/cs/ic_money_yen.png');}
+    .isc-monitor{background-image: url('../img/icons/cs/ic_monitor.png');}
+    .isc-mouse{background-image: url('../img/icons/cs/ic_mouse.png');}
+    .isc-music{background-image: url('../img/icons/cs/ic_music.png');}
+    .isc-new{background-image: url('../img/icons/cs/ic_new.png');}
+    .isc-newspaper{background-image: url('../img/icons/cs/ic_newspaper.png');}
+    .isc-note{background-image: url('../img/icons/cs/ic_note.png');}
+    .isc-overlays{background-image: url('../img/icons/cs/ic_overlays.png');}
+    .isc-package{background-image: url('../img/icons/cs/ic_package.png');}
+    .isc-page{background-image: url('../img/icons/cs/ic_page.png');}
+    .isc-page_add{background-image: url('../img/icons/cs/ic_page_add.png');}
+    .isc-page_attach{background-image: url('../img/icons/cs/ic_page_attach.png');}
+    .isc-page_copy{background-image: url('../img/icons/cs/ic_page_copy.png');}
+    .isc-page_delete{background-image: url('../img/icons/cs/ic_page_delete.png');}
+    .isc-page_edit{background-image: url('../img/icons/cs/ic_page_edit.png');}
+    .isc-page_error{background-image: url('../img/icons/cs/ic_page_error.png');}
+    .isc-page_excel{background-image: url('../img/icons/cs/ic_page_excel.png');}
+    .isc-page_find{background-image: url('../img/icons/cs/ic_page_find.png');}
+    .isc-page_go{background-image: url('../img/icons/cs/ic_page_go.png');}
+    .isc-page_green{background-image: url('../img/icons/cs/ic_page_green.png');}
+    .isc-page_gear{background-image: url('../img/icons/cs/ic_page_gear.png');}
+    .isc-page_key{background-image: url('../img/icons/cs/ic_page_key.png');}
+    .isc-page_link{background-image: url('../img/icons/cs/ic_page_link.png');}
+    .isc-page_paintbrush{background-image: url('../img/icons/cs/ic_page_paintbrush.png');}
+    .isc-page_paste{background-image: url('../img/icons/cs/ic_page_paste.png');}
+    .isc-page_red{background-image: url('../img/icons/cs/ic_page_red.png');}
+    .isc-page_refresh{background-image: url('../img/icons/cs/ic_page_refresh.png');}
+    .isc-page_save{background-image: url('../img/icons/cs/ic_page_save.png');}
+    .isc-page_white{background-image: url('../img/icons/cs/ic_page_white.png');}
+    .isc-page_white_acrobat{background-image: url('../img/icons/cs/ic_page_white_acrobat.png');}
+    .isc-page_white_add{background-image: url('../img/icons/cs/ic_page_white_add.png');}
+    .isc-page_white_copy{background-image: url('../img/icons/cs/ic_page_white_copy.png');}
+    .isc-page_white_delete{background-image: url('../img/icons/cs/ic_page_white_delete.png');}
+    .isc-page_white_edit{background-image: url('../img/icons/cs/ic_page_white_edit.png');}
+    .isc-page_white_error{background-image: url('../img/icons/cs/ic_page_white_error.png');}
+    .isc-page_white_excel{background-image: url('../img/icons/cs/ic_page_white_excel.png');}
+    .isc-page_white_get{background-image: url('../img/icons/cs/ic_page_white_get.png');}
+    .isc-page_white_go{background-image: url('../img/icons/cs/ic_page_white_go.png');}
+    .isc-page_white_horizontal{background-image: url('../img/icons/cs/ic_page_white_horizontal.png');}
+    .isc-page_white_key{background-image: url('../img/icons/cs/ic_page_white_key.png');}
+    .isc-page_white_link{background-image: url('../img/icons/cs/ic_page_white_link.png');}
+    .isc-page_white_magnify{background-image: url('../img/icons/cs/ic_page_white_magnify.png');}
+    .isc-page_white_paint{background-image: url('../img/icons/cs/ic_page_white_paint.png');}
+    .isc-page_white_paintbrush{background-image: url('../img/icons/cs/ic_page_white_paintbrush.png');}
+    .isc-page_white_paste{background-image: url('../img/icons/cs/ic_page_white_paste.png');}
+    .isc-page_white_picture{background-image: url('../img/icons/cs/ic_page_white_picture.png');}
+    .isc-page_white_powerpoint{background-image: url('../img/icons/cs/ic_page_white_powerpoint.png');}
+    .isc-page_white_put{background-image: url('../img/icons/cs/ic_page_white_put.png');}
+    .isc-page_white_stack{background-image: url('../img/icons/cs/ic_page_white_stack.png');}
+    .isc-page_white_text{background-image: url('../img/icons/cs/ic_page_white_text.png');}
+    .isc-page_white_text_width{background-image: url('../img/icons/cs/ic_page_white_text_width.png');}
+    .isc-page_white_width{background-image: url('../img/icons/cs/ic_page_white_width.png');}
+    .isc-page_white_word{background-image: url('../img/icons/cs/ic_page_white_word.png');}
+    .isc-page_white_world{background-image: url('../img/icons/cs/ic_page_white_world.png');}
+    .isc-page_white_wrench{background-image: url('../img/icons/cs/ic_page_white_wrench.png');}
+    .isc-page_word{background-image: url('../img/icons/cs/ic_page_word.png');}
+    .isc-page_world{background-image: url('../img/icons/cs/ic_page_world.png');}
+    .isc-paintbrush{background-image: url('../img/icons/cs/ic_paintbrush.png');}
+    .isc-paintcan{background-image: url('../img/icons/cs/ic_paintcan.png');}
+    .isc-palette{background-image: url('../img/icons/cs/ic_palette.png');}
+    .isc-paste_plain{background-image: url('../img/icons/cs/ic_paste_plain.png');}
+    .isc-paste_word{background-image: url('../img/icons/cs/ic_paste_word.png');}
+    .isc-pencil{background-image: url('../img/icons/cs/ic_pencil.png');}
+    .isc-phone{background-image: url('../img/icons/cs/ic_phone.png');}
+    .isc-phone_add{background-image: url('../img/icons/cs/ic_phone_add.png');}
+    .isc-photo{background-image: url('../img/icons/cs/ic_photo.png');}
+    .isc-photos{background-image: url('../img/icons/cs/ic_photos.png');}
+    .isc-picture{background-image: url('../img/icons/cs/ic_picture.png');}
+    .isc-picture_empty{background-image: url('../img/icons/cs/ic_picture_empty.png');}
+    .isc-pictures{background-image: url('../img/icons/cs/ic_pictures.png');}
+    .isc-pilcrow{background-image: url('../img/icons/cs/ic_pilcrow.png');}
+    .isc-pill{background-image: url('../img/icons/cs/ic_pill.png');}
+    .isc-plugin{background-image: url('../img/icons/cs/ic_plugin.png');}
+    .isc-plugin_disabled{background-image: url('../img/icons/cs/ic_plugin_disabled.png');}
+    .isc-printer{background-image: url('../img/icons/cs/ic_printer.png');}
+    .isc-rainbow{background-image: url('../img/icons/cs/ic_rainbow.png');}
+    .isc-report{background-image: url('../img/icons/cs/ic_report.png');}
+    .isc-report_add{background-image: url('../img/icons/cs/ic_report_add.png');}
+    .isc-report_delete{background-image: url('../img/icons/cs/ic_report_delete.png');}
+    .isc-report_disk{background-image: url('../img/icons/cs/ic_report_disk.png');}
+    .isc-report_edit{background-image: url('../img/icons/cs/ic_report_edit.png');}
+    .isc-report_go{background-image: url('../img/icons/cs/ic_report_go.png');}
+    .isc-report_key{background-image: url('../img/icons/cs/ic_report_key.png');}
+    .isc-report_link{background-image: url('../img/icons/cs/ic_report_link.png');}
+    .isc-report_magnify{background-image: url('../img/icons/cs/ic_report_magnify.png');}
+    .isc-report_picture{background-image: url('../img/icons/cs/ic_report_picture.png');}
+    .isc-report_user{background-image: url('../img/icons/cs/ic_report_user.png');}
+    .isc-report_word{background-image: url('../img/icons/cs/ic_report_word.png');}
+    .isc-resultset_first{background-image: url('../img/icons/cs/ic_resultset_first.png');}
+    .isc-resultset_last{background-image: url('../img/icons/cs/ic_resultset_last.png');}
+    .isc-resultset_next{background-image: url('../img/icons/cs/ic_resultset_next.png');}
+    .isc-resultset_previous{background-image: url('../img/icons/cs/ic_resultset_previous.png');}
+    .isc-rosette{background-image: url('../img/icons/cs/ic_rosette.png');}
+    .isc-rss{background-image: url('../img/icons/cs/ic_rss.png');}
+    .isc-ruby{background-image: url('../img/icons/cs/ic_ruby.png');}
+    .isc-script{background-image: url('../img/icons/cs/ic_script.png');}
+    .isc-script_add{background-image: url('../img/icons/cs/ic_script_add.png');}
+    .isc-script_delete{background-image: url('../img/icons/cs/ic_script_delete.png');}
+    .isc-script_edit{background-image: url('../img/icons/cs/ic_script_edit.png');}
+    .isc-script_error{background-image: url('../img/icons/cs/ic_script_error.png');}
+    .isc-script_go{background-image: url('../img/icons/cs/ic_script_go.png');}
+    .isc-script_key{background-image: url('../img/icons/cs/ic_script_key.png');}
+    .isc-script_link{background-image: url('../img/icons/cs/ic_script_link.png');}
+    .isc-script_save{background-image: url('../img/icons/cs/ic_script_save.png');}
+    .isc-server{background-image: url('../img/icons/cs/ic_server.png');}
+    .isc-shading{background-image: url('../img/icons/cs/ic_shading.png');}
+    .isc-shape_align_bottom{background-image: url('../img/icons/cs/ic_shape_align_bottom.png');}
+    .isc-shape_align_center{background-image: url('../img/icons/cs/ic_shape_align_center.png');}
+    .isc-shape_align_left{background-image: url('../img/icons/cs/ic_shape_align_left.png');}
+    .isc-shape_align_middle{background-image: url('../img/icons/cs/ic_shape_align_middle.png');}
+    .isc-shape_align_right{background-image: url('../img/icons/cs/ic_shape_align_right.png');}
+    .isc-shape_align_top{background-image: url('../img/icons/cs/ic_shape_align_top.png');}
+    .isc-shape_flip_horizontal{background-image: url('../img/icons/cs/ic_shape_flip_horizontal.png');}
+    .isc-shape_flip_vertical{background-image: url('../img/icons/cs/ic_shape_flip_vertical.png');}
+    .isc-shape_group{background-image: url('../img/icons/cs/ic_shape_group.png');}
+    .isc-shape_handles{background-image: url('../img/icons/cs/ic_shape_handles.png');}
+    .isc-shape_move_back{background-image: url('../img/icons/cs/ic_shape_move_back.png');}
+    .isc-shape_move_backwards{background-image: url('../img/icons/cs/ic_shape_move_backwards.png');}
+    .isc-shape_move_forwards{background-image: url('../img/icons/cs/ic_shape_move_forwards.png');}
+    .isc-shape_move_front{background-image: url('../img/icons/cs/ic_shape_move_front.png');}
+    .isc-shape_rotate_anticlockwise{background-image: url('../img/icons/cs/ic_shape_rotate_anticlockwise.png');}
+    .isc-shape_rotate_clockwise{background-image: url('../img/icons/cs/ic_shape_rotate_clockwise.png');}
+    .isc-shape_square{background-image: url('../img/icons/cs/ic_shape_square.png');}
+    .isc-shape_ungroup{background-image: url('../img/icons/cs/ic_shape_ungroup.png');}
+    .isc-shield{background-image: url('../img/icons/cs/ic_shield.png');}
+    .isc-sitemap{background-image: url('../img/icons/cs/ic_sitemap.png');}
+    .isc-sitemap_color{background-image: url('../img/icons/cs/ic_sitemap_color.png');}
+    .isc-sound{background-image: url('../img/icons/cs/ic_sound.png');}
+    .isc-sound_none{background-image: url('../img/icons/cs/ic_sound_none.png');}
+    .isc-spellcheck{background-image: url('../img/icons/cs/ic_spellcheck.png');}
+    .isc-sport_8ball{background-image: url('../img/icons/cs/ic_sport_8ball.png');}
+    .isc-sport_basketball{background-image: url('../img/icons/cs/ic_sport_basketball.png');}
+    .isc-sport_football{background-image: url('../img/icons/cs/ic_sport_football.png');}
+    .isc-sport_golf{background-image: url('../img/icons/cs/ic_sport_golf.png');}
+    .isc-sport_raquet{background-image: url('../img/icons/cs/ic_sport_raquet.png');}
+    .isc-sport_shuttlecock{background-image: url('../img/icons/cs/ic_sport_shuttlecock.png');}
+    .isc-sport_soccer{background-image: url('../img/icons/cs/ic_sport_soccer.png');}
+    .isc-sport_tennis{background-image: url('../img/icons/cs/ic_sport_tennis.png');}
+    .isc-star{background-image: url('../img/icons/cs/ic_star.png');}
+    .isc-status_away{background-image: url('../img/icons/cs/ic_status_away.png');}
+    .isc-status_busy{background-image: url('../img/icons/cs/ic_status_busy.png');}
+    .isc-status_offline{background-image: url('../img/icons/cs/ic_status_offline.png');}
+    .isc-status_online{background-image: url('../img/icons/cs/ic_status_online.png');}
+    .isc-stop{background-image: url('../img/icons/cs/ic_stop.png');}
+    .isc-style{background-image: url('../img/icons/cs/ic_style.png');}
+    .isc-sum{background-image: url('../img/icons/cs/ic_sum.png');}
+    .isc-tab{background-image: url('../img/icons/cs/ic_tab.png');}
+    .isc-table{background-image: url('../img/icons/cs/ic_table.png');}
+    .isc-table_add{background-image: url('../img/icons/cs/ic_table_add.png');}
+    .isc-table_delete{background-image: url('../img/icons/cs/ic_table_delete.png');}
+    .isc-table_edit{background-image: url('../img/icons/cs/ic_table_edit.png');}
+    .isc-table_error{background-image: url('../img/icons/cs/ic_table_error.png');}
+    .isc-table_gear{background-image: url('../img/icons/cs/ic_table_gear.png');}
+    .isc-table_go{background-image: url('../img/icons/cs/ic_table_go.png');}
+    .isc-table_key{background-image: url('../img/icons/cs/ic_table_key.png');}
+    .isc-table_lightning{background-image: url('../img/icons/cs/ic_table_lightning.png');}
+    .isc-table_link{background-image: url('../img/icons/cs/ic_table_link.png');}
+    .isc-table_multiple{background-image: url('../img/icons/cs/ic_table_multiple.png');}
+    .isc-table_refresh{background-image: url('../img/icons/cs/ic_table_refresh.png');}
+    .isc-table_relationship{background-image: url('../img/icons/cs/ic_table_relationship.png');}
+    .isc-table_row_delete{background-image: url('../img/icons/cs/ic_table_row_delete.png');}
+    .isc-table_row_insert{background-image: url('../img/icons/cs/ic_table_row_insert.png');}
+    .isc-table_save{background-image: url('../img/icons/cs/ic_table_save.png');}
+    .isc-table_sort{background-image: url('../img/icons/cs/ic_table_sort.png');}
+    .isc-tag{background-image: url('../img/icons/cs/ic_tag.png');}
+    .isc-tag_blue{background-image: url('../img/icons/cs/ic_tag_blue.png');}
+    .isc-tag_green{background-image: url('../img/icons/cs/ic_tag_green.png');}
+    .isc-tag_orange{background-image: url('../img/icons/cs/ic_tag_orange.png');}
+    .isc-tag_pink{background-image: url('../img/icons/cs/ic_tag_pink.png');}
+    .isc-tag_purple{background-image: url('../img/icons/cs/ic_tag_purple.png');}
+    .isc-tag_red{background-image: url('../img/icons/cs/ic_tag_red.png');}
+    .isc-tag_yellow{background-image: url('../img/icons/cs/ic_tag_yellow.png');}
+    .isc-telephone{background-image: url('../img/icons/cs/ic_telephone.png');}
+    .isc-television{background-image: url('../img/icons/cs/ic_television.png');}
+    .isc-text_align_center{background-image: url('../img/icons/cs/ic_text_align_center.png');}
+    .isc-text_align_justify{background-image: url('../img/icons/cs/ic_text_align_justify.png');}
+    .isc-text_align_left{background-image: url('../img/icons/cs/ic_text_align_left.png');}
+    .isc-text_align_right{background-image: url('../img/icons/cs/ic_text_align_right.png');}
+    .isc-text_allcaps{background-image: url('../img/icons/cs/ic_text_allcaps.png');}
+    .isc-text_bold{background-image: url('../img/icons/cs/ic_text_bold.png');}
+    .isc-text_columns{background-image: url('../img/icons/cs/ic_text_columns.png');}
+    .isc-text_dropcaps{background-image: url('../img/icons/cs/ic_text_dropcaps.png');}
+    .isc-text_heading_1{background-image: url('../img/icons/cs/ic_text_heading_1.png');}
+    .isc-text_heading_2{background-image: url('../img/icons/cs/ic_text_heading_2.png');}
+    .isc-text_heading_3{background-image: url('../img/icons/cs/ic_text_heading_3.png');}
+    .isc-text_heading_4{background-image: url('../img/icons/cs/ic_text_heading_4.png');}
+    .isc-text_heading_5{background-image: url('../img/icons/cs/ic_text_heading_5.png');}
+    .isc-text_heading_6{background-image: url('../img/icons/cs/ic_text_heading_6.png');}
+    .isc-text_horizontalrule{background-image: url('../img/icons/cs/ic_text_horizontalrule.png');}
+    .isc-text_indent{background-image: url('../img/icons/cs/ic_text_indent.png');}
+    .isc-text_indent_remove{background-image: url('../img/icons/cs/ic_text_indent_remove.png');}
+    .isc-text_italic{background-image: url('../img/icons/cs/ic_text_italic.png');}
+    .isc-text_kerning{background-image: url('../img/icons/cs/ic_text_kerning.png');}
+    .isc-text_letter_omega{background-image: url('../img/icons/cs/ic_text_letter_omega.png');}
+    .isc-text_letterspacing{background-image: url('../img/icons/cs/ic_text_letterspacing.png');}
+    .isc-text_linespacing{background-image: url('../img/icons/cs/ic_text_linespacing.png');}
+    .isc-text_list_bullets{background-image: url('../img/icons/cs/ic_text_list_bullets.png');}
+    .isc-text_list_numbers{background-image: url('../img/icons/cs/ic_text_list_numbers.png');}
+    .isc-text_lowercase{background-image: url('../img/icons/cs/ic_text_lowercase.png');}
+    .isc-text_padding_bottom{background-image: url('../img/icons/cs/ic_text_padding_bottom.png');}
+    .isc-text_padding_left{background-image: url('../img/icons/cs/ic_text_padding_left.png');}
+    .isc-text_padding_right{background-image: url('../img/icons/cs/ic_text_padding_right.png');}
+    .isc-text_padding_top{background-image: url('../img/icons/cs/ic_text_padding_top.png');}
+    .isc-text_replace{background-image: url('../img/icons/cs/ic_text_replace.png');}
+    .isc-text_signature{background-image: url('../img/icons/cs/ic_text_signature.png');}
+    .isc-text_smallcaps{background-image: url('../img/icons/cs/ic_text_smallcaps.png');}
+    .isc-text_strikethrough{background-image: url('../img/icons/cs/ic_text_strikethrough.png');}
+    .isc-text_subscript{background-image: url('../img/icons/cs/ic_text_subscript.png');}
+    .isc-text_superscript{background-image: url('../img/icons/cs/ic_text_superscript.png');}
+    .isc-text_underline{background-image: url('../img/icons/cs/ic_text_underline.png');}
+    .isc-text_uppercase{background-image: url('../img/icons/cs/ic_text_uppercase.png');}
+    .isc-textfield{background-image: url('../img/icons/cs/ic_textfield.png');}
+    .isc-textfield_rename{background-image: url('../img/icons/cs/ic_textfield_rename.png');}
+    .isc-thumb_down{background-image: url('../img/icons/cs/ic_thumb_down.png');}
+    .isc-thumb_up{background-image: url('../img/icons/cs/ic_thumb_up.png');}
+    .isc-tick{background-image: url('../img/icons/cs/ic_tick.png');}
+    .isc-time{background-image: url('../img/icons/cs/ic_time.png');}
+    .isc-timeline_marker{background-image: url('../img/icons/cs/ic_timeline_marker.png');}
+    .isc-transmit{background-image: url('../img/icons/cs/ic_transmit.png');}
+    .isc-tux{background-image: url('../img/icons/cs/ic_tux.png');}
+    .isc-user{background-image: url('../img/icons/cs/ic_user.png');}
+    .isc-user_add{background-image: url('../img/icons/cs/ic_user_add.png');}
+    .isc-user_comment{background-image: url('../img/icons/cs/ic_user_comment.png');}
+    .isc-user_delete{background-image: url('../img/icons/cs/ic_user_delete.png');}
+    .isc-user_edit{background-image: url('../img/icons/cs/ic_user_edit.png');}
+    .isc-user_female{background-image: url('../img/icons/cs/ic_user_female.png');}
+    .isc-user_go{background-image: url('../img/icons/cs/ic_user_go.png');}
+    .isc-user_gray{background-image: url('../img/icons/cs/ic_user_gray.png');}
+    .isc-user_green{background-image: url('../img/icons/cs/ic_user_green.png');}
+    .isc-user_orange{background-image: url('../img/icons/cs/ic_user_orange.png');}
+    .isc-user_red{background-image: url('../img/icons/cs/ic_user_red.png');}
+    .isc-user_suit{background-image: url('../img/icons/cs/ic_user_suit.png');}
+    .isc-vcard{background-image: url('../img/icons/cs/ic_vcard.png');}
+    .isc-vector{background-image: url('../img/icons/cs/ic_vector.png');}
+    .isc-wand{background-image: url('../img/icons/cs/ic_wand.png');}
+    .isc-weather_clouds{background-image: url('../img/icons/cs/ic_weather_clouds.png');}
+    .isc-weather_cloudy{background-image: url('../img/icons/cs/ic_weather_cloudy.png');}
+    .isc-weather_lightning{background-image: url('../img/icons/cs/ic_weather_lightning.png');}
+    .isc-weather_rain{background-image: url('../img/icons/cs/ic_weather_rain.png');}
+    .isc-weather_snow{background-image: url('../img/icons/cs/ic_weather_snow.png');}
+    .isc-weather_sun{background-image: url('../img/icons/cs/ic_weather_sun.png');}
+    .isc-webcam{background-image: url('../img/icons/cs/ic_webcam.png');}
+    .isc-world{background-image: url('../img/icons/cs/ic_world.png');}
+    .isc-wrench{background-image: url('../img/icons/cs/ic_wrench.png');}
+    .isc-wrench_orange{background-image: url('../img/icons/cs/ic_wrench_orange.png');}
+    .isc-xhtml{background-image: url('../img/icons/cs/ic_xhtml.png');}
+    .isc-zoom{background-image: url('../img/icons/cs/ic_zoom.png');}
+    .isc-zoom_in{background-image: url('../img/icons/cs/ic_zoom_in.png');}
+    .isc-zoom_out{background-image: url('../img/icons/cs/ic_zoom_out.png');}
+
+
+    /* eof icon small color */
+
+/* eof small icons */
+
+/* big icons */
+[class*="ibw-"],[class*="ibb-"]{ width: 32px; height: 32px; float: left; display: block; font-size: 24px; font-weight: normal;}
+[class*="block"] [class*="ibw-"], [class*="block"] [class*="ibb-"] { display: inline-block; padding: 1px 0px 0px; margin-right: 5px; margin-left: 0px; line-height: 36px;}
+
+    /* icon small white */
+    .ibw-archive{background: url('../img/icons/wb/ic_archive.png') center center no-repeat transparent;}
+    .ibw-attachment{background: url('../img/icons/wb/ic_attachment.png') center center no-repeat transparent;}
+    .ibw-bookmark{background: url('../img/icons/wb/ic_bookmark.png') center center no-repeat transparent;}
+    .ibw-brush{background: url('../img/icons/wb/ic_brush.png') center center no-repeat transparent;}
+    .ibw-calc{background: url('../img/icons/wb/ic_calc.png') center center no-repeat transparent;}
+    .ibw-calendar{background: url('../img/icons/wb/ic_calendar.png') center center no-repeat transparent;}
+    .ibw-cancel{background: url('../img/icons/wb/ic_cancel.png') center center no-repeat transparent;}
+    .ibw-chat{background: url('../img/icons/wb/ic_chat.png') center center no-repeat transparent;}
+    .ibw-chats{background: url('../img/icons/wb/ic_chats.png') center center no-repeat transparent;}
+    .ibw-cloud{background: url('../img/icons/wb/ic_cloud.png') center center no-repeat transparent;}
+    .ibw-delete{background: url('../img/icons/wb/ic_delete.png') center center no-repeat transparent;}
+    .ibw-documents{background: url('../img/icons/wb/ic_documents.png') center center no-repeat transparent;}
+    .ibw-down{background: url('../img/icons/wb/ic_down.png') center center no-repeat transparent;}
+    .ibw-donw_circle{background: url('../img/icons/wb/ic_down_circle.png') center center no-repeat transparent;}
+    .ibw-download{background: url('../img/icons/wb/ic_download.png') center center no-repeat transparent;}
+    .ibw-edit{background: url('../img/icons/wb/ic_edit.png') center center no-repeat transparent;}
+    .ibw-empty_document{background: url('../img/icons/wb/ic_empty_document.png') center center no-repeat transparent;}
+    .ibw-favorite{background: url('../img/icons/wb/ic_favorite.png') center center no-repeat transparent;}
+    .ibw-folder{background: url('../img/icons/wb/ic_folder.png') center center no-repeat transparent;}
+    .ibw-fullscreen{background: url('../img/icons/wb/ic_fullscreen.png') center center no-repeat transparent;}
+    .ibw-graph{background: url('../img/icons/wb/ic_graph.png') center center no-repeat transparent;}
+    .ibw-grid{background: url('../img/icons/wb/ic_grid.png') center center no-repeat transparent;}
+    .ibw-left{background: url('../img/icons/wb/ic_left.png') center center no-repeat transparent;}
+    .ibw-left_circle{background: url('../img/icons/wb/ic_left_circle.png') center center no-repeat transparent;}
+    .ibw-list{background: url('../img/icons/wb/ic_list.png') center center no-repeat transparent;}
+    .ibw-lock{background: url('../img/icons/wb/ic_lock.png') center center no-repeat transparent;}
+    .ibw-mail{background: url('../img/icons/wb/ic_mail.png') center center no-repeat transparent;}
+    .ibw-minus{background: url('../img/icons/wb/ic_minus.png') center center no-repeat transparent;}
+    .ibw-ok{background: url('../img/icons/wb/ic_ok.png') center center no-repeat transparent;}
+    .ibw-picture{background: url('../img/icons/wb/ic_picture.png') center center no-repeat transparent;}
+    .ibw-pin{background: url('../img/icons/wb/ic_pin.png') center center no-repeat transparent;}
+    .ibw-plus{background: url('../img/icons/wb/ic_plus.png') center center no-repeat transparent;}
+    .ibw-power{background: url('../img/icons/wb/ic_power.png') center center no-repeat transparent;}
+    .ibw-print{background: url('../img/icons/wb/ic_print.png') center center no-repeat transparent;}
+    .ibw-refresh{background: url('../img/icons/wb/ic_refresh.png') center center no-repeat transparent;}
+    .ibw-right{background: url('../img/icons/wb/ic_right.png') center center no-repeat transparent;}
+    .ibw-right_circle{background: url('../img/icons/wb/ic_right_circle.png') center center no-repeat transparent;}
+    .ibw-settings{background: url('../img/icons/wb/ic_settings.png') center center no-repeat transparent;}
+    .ibw-sound{background: url('../img/icons/wb/ic_sound.png') center center no-repeat transparent;}
+    .ibw-sync{background: url('../img/icons/wb/ic_sync.png') center center no-repeat transparent;}
+    .ibw-tag{background: url('../img/icons/wb/ic_tag.png') center center no-repeat transparent;}
+    .ibw-target{background: url('../img/icons/wb/ic_target.png') center center no-repeat transparent;}
+    .ibw-text_document{background: url('../img/icons/wb/ic_text_document.png') center center no-repeat transparent;}
+    .ibw-time{background: url('../img/icons/wb/ic_time.png') center center no-repeat transparent;}
+    .ibw-unlock{background: url('../img/icons/wb/ic_unlock.png') center center no-repeat transparent;}
+    .ibw-up{background: url('../img/icons/wb/ic_up.png') center center no-repeat transparent;}
+    .ibw-up_circle{background: url('../img/icons/wb/ic_up_circle.png') center center no-repeat transparent;}
+    .ibw-user{background: url('../img/icons/wb/ic_user.png') center center no-repeat transparent;}
+    .ibw-users{background: url('../img/icons/wb/ic_users.png') center center no-repeat transparent;}
+    .ibw-zoom{background: url('../img/icons/wb/ic_zoom.png') center center no-repeat transparent;}
+    /* eof icon small whit */
+
+    /* icon small black */
+    .ibb-archive{background: url('../img/icons/bb/ic_archive.png') center center no-repeat transparent;}
+    .ibb-attachment{background: url('../img/icons/bb/ic_attachment.png') center center no-repeat transparent;}
+    .ibb-bookmark{background: url('../img/icons/bb/ic_bookmark.png') center center no-repeat transparent;}
+    .ibb-brush{background: url('../img/icons/bb/ic_brush.png') center center no-repeat transparent;}
+    .ibb-calc{background: url('../img/icons/bb/ic_calc.png') center center no-repeat transparent;}
+    .ibb-calendar{background: url('../img/icons/bb/ic_calendar.png') center center no-repeat transparent;}
+    .ibb-cancel{background: url('../img/icons/bb/ic_cancel.png') center center no-repeat transparent;}
+    .ibb-chat{background: url('../img/icons/bb/ic_chat.png') center center no-repeat transparent;}
+    .ibb-chats{background: url('../img/icons/bb/ic_chats.png') center center no-repeat transparent;}
+    .ibb-cloud{background: url('../img/icons/bb/ic_cloud.png') center center no-repeat transparent;}
+    .ibb-delete{background: url('../img/icons/bb/ic_delete.png') center center no-repeat transparent;}
+    .ibb-documents{background: url('../img/icons/bb/ic_documents.png') center center no-repeat transparent;}
+    .ibb-down{background: url('../img/icons/bb/ic_down.png') center center no-repeat transparent;}
+    .ibb-donw_circle{background: url('../img/icons/bb/ic_down_circle.png') center center no-repeat transparent;}
+    .ibb-download{background: url('../img/icons/bb/ic_download.png') center center no-repeat transparent;}
+    .ibb-edit{background: url('../img/icons/bb/ic_edit.png') center center no-repeat transparent;}
+    .ibb-empty_document{background: url('../img/icons/bb/ic_empty_document.png') center center no-repeat transparent;}
+    .ibb-favorite{background: url('../img/icons/bb/ic_favorite.png') center center no-repeat transparent;}
+    .ibb-folder{background: url('../img/icons/bb/ic_folder.png') center center no-repeat transparent;}
+    .ibb-fullscreen{background: url('../img/icons/bb/ic_fullscreen.png') center center no-repeat transparent;}
+    .ibb-graph{background: url('../img/icons/bb/ic_graph.png') center center no-repeat transparent;}
+    .ibb-grid{background: url('../img/icons/bb/ic_grid.png') center center no-repeat transparent;}
+    .ibb-left{background: url('../img/icons/bb/ic_left.png') center center no-repeat transparent;}
+    .ibb-left_circle{background: url('../img/icons/bb/ic_left_circle.png') center center no-repeat transparent;}
+    .ibb-list{background: url('../img/icons/bb/ic_list.png') center center no-repeat transparent;}
+    .ibb-lock{background: url('../img/icons/bb/ic_lock.png') center center no-repeat transparent;}
+    .ibb-mail{background: url('../img/icons/bb/ic_mail.png') center center no-repeat transparent;}
+    .ibb-minus{background: url('../img/icons/bb/ic_minus.png') center center no-repeat transparent;}
+    .ibb-ok{background: url('../img/icons/bb/ic_ok.png') center center no-repeat transparent;}
+    .ibb-picture{background: url('../img/icons/bb/ic_picture.png') center center no-repeat transparent;}
+    .ibb-pin{background: url('../img/icons/bb/ic_pin.png') center center no-repeat transparent;}
+    .ibb-plus{background: url('../img/icons/bb/ic_plus.png') center center no-repeat transparent;}
+    .ibb-power{background: url('../img/icons/bb/ic_power.png') center center no-repeat transparent;}
+    .ibb-print{background: url('../img/icons/bb/ic_print.png') center center no-repeat transparent;}
+    .ibb-refresh{background: url('../img/icons/bb/ic_refresh.png') center center no-repeat transparent;}
+    .ibb-right{background: url('../img/icons/bb/ic_right.png') center center no-repeat transparent;}
+    .ibb-right_circle{background: url('../img/icons/bb/ic_right_circle.png') center center no-repeat transparent;}
+    .ibb-settings{background: url('../img/icons/bb/ic_settings.png') center center no-repeat transparent;}
+    .ibb-sound{background: url('../img/icons/bb/ic_sound.png') center center no-repeat transparent;}
+    .ibb-sync{background: url('../img/icons/bb/ic_sync.png') center center no-repeat transparent;}
+    .ibb-tag{background: url('../img/icons/bb/ic_tag.png') center center no-repeat transparent;}
+    .ibb-target{background: url('../img/icons/bb/ic_target.png') center center no-repeat transparent;}
+    .ibb-text_document{background: url('../img/icons/bb/ic_text_document.png') center center no-repeat transparent;}
+    .ibb-time{background: url('../img/icons/bb/ic_time.png') center center no-repeat transparent;}
+    .ibb-unlock{background: url('../img/icons/bb/ic_unlock.png') center center no-repeat transparent;}
+    .ibb-up{background: url('../img/icons/bb/ic_up.png') center center no-repeat transparent;}
+    .ibb-up_circle{background: url('../img/icons/bb/ic_up_circle.png') center center no-repeat transparent;}
+    .ibb-user{background: url('../img/icons/bb/ic_user.png') center center no-repeat transparent;}
+    .ibb-users{background: url('../img/icons/bb/ic_users.png') center center no-repeat transparent;}
+    .ibb-zoom{background: url('../img/icons/bb/ic_zoom.png') center center no-repeat transparent;}
+    /* eof icon small black */
+
+    [class*="ibc-"]{ width: 32px; height: 32px; float: left; display: block; font-size: 24px; font-weight: normal; background-repeat: no-repeat; background-position: center; background-color: transparent;}
+[class*="block"] [class*="ibc-"] { display: inline-block; padding: 1px 0px 0px; margin-right: 5px; margin-left: 0px; line-height: 36px; background-repeat: no-repeat; background-position: center; background-color: transparent;}
+
+    .ibc-accessories{background-image: url('../img/icons/cb/ic_accessories.png');}
+    .ibc-accessories_2{background-image: url('../img/icons/cb/ic_accessories_2.png');}
+    .ibc-accessories_3{background-image: url('../img/icons/cb/ic_accessories_3.png');}
+    .ibc-accessories_4{background-image: url('../img/icons/cb/ic_accessories_4.png');}
+    .ibc-art{background-image: url('../img/icons/cb/ic_art.png');}
+    .ibc-battery{background-image: url('../img/icons/cb/ic_battery.png');}
+    .ibc-battery_2{background-image: url('../img/icons/cb/ic_battery_2.png');}
+    .ibc-battery_caution{background-image: url('../img/icons/cb/ic_battery_caution.png');}
+    .ibc-battery_caution_2{background-image: url('../img/icons/cb/ic_battery_caution_2.png');}
+    .ibc-battery_caution_3{background-image: url('../img/icons/cb/ic_battery_caution_3.png');}
+    .ibc-battery_charging{background-image: url('../img/icons/cb/ic_battery_charging.png');}
+    .ibc-blockdevice{background-image: url('../img/icons/cb/ic_blockdevice.png');}
+    .ibc-blockdevice_2{background-image: url('../img/icons/cb/ic_blockdevice_2.png');}
+    .ibc-blockdevice_3{background-image: url('../img/icons/cb/ic_blockdevice_3.png');}
+    .ibc-book{background-image: url('../img/icons/cb/ic_book.png');}
+    .ibc-books{background-image: url('../img/icons/cb/ic_books.png');}
+    .ibc-camera{background-image: url('../img/icons/cb/ic_camera.png');}
+    .ibc-camera_2{background-image: url('../img/icons/cb/ic_camera_2.png');}
+    .ibc-camera_photo_2{background-image: url('../img/icons/cb/ic_camera_photo_2.png');}
+    .ibc-camera_video_2{background-image: url('../img/icons/cb/ic_camera_video_2.png');}
+    .ibc-camera_video_3{background-image: url('../img/icons/cb/ic_camera_video_3.png');}
+    .ibc-camera_web{background-image: url('../img/icons/cb/ic_camera_web.png');}
+    .ibc-camera_web_2{background-image: url('../img/icons/cb/ic_camera_web_2.png');}
+    .ibc-circle_blue{background-image: url('../img/icons/cb/ic_circle_blue.png');}
+    .ibc-circle_green{background-image: url('../img/icons/cb/ic_circle_green.png');}
+    .ibc-circle_grey{background-image: url('../img/icons/cb/ic_circle_grey.png');}
+    .ibc-circle_orange{background-image: url('../img/icons/cb/ic_circle_orange.png');}
+    .ibc-circle_purple{background-image: url('../img/icons/cb/ic_circle_purple.png');}
+    .ibc-circle_red{background-image: url('../img/icons/cb/ic_circle_red.png');}
+    .ibc-circle_tan{background-image: url('../img/icons/cb/ic_circle_tan.png');}
+    .ibc-circle_yellow{background-image: url('../img/icons/cb/ic_circle_yellow.png');}
+    .ibc-computer_2{background-image: url('../img/icons/cb/ic_computer_2.png');}
+    .ibc-computer_4{background-image: url('../img/icons/cb/ic_computer_4.png');}
+    .ibc-computer_laptop_2{background-image: url('../img/icons/cb/ic_computer_laptop_2.png');}
+    .ibc-config_boot{background-image: url('../img/icons/cb/ic_config_boot.png');}
+    .ibc-config_lvm{background-image: url('../img/icons/cb/ic_config_lvm.png');}
+    .ibc-daemons{background-image: url('../img/icons/cb/ic_daemons.png');}
+    .ibc-default{background-image: url('../img/icons/cb/ic_default.png');}
+    .ibc-desktop_personal{background-image: url('../img/icons/cb/ic_desktop_personal.png');}
+    .ibc-desktop_personal_2{background-image: url('../img/icons/cb/ic_desktop_personal_2.png');}
+    .ibc-desktop_personal_3{background-image: url('../img/icons/cb/ic_desktop_personal_3.png');}
+    .ibc-desktop_theme_2{background-image: url('../img/icons/cb/ic_desktop_theme_2.png');}
+    .ibc-desktop_user_2{background-image: url('../img/icons/cb/ic_desktop_user_2.png');}
+    .ibc-desktop_user_password{background-image: url('../img/icons/cb/ic_desktop_user_password.png');}
+    .ibc-desktop_wallpaper{background-image: url('../img/icons/cb/ic_desktop_wallpaper.png');}
+    .ibc-desktop_wallpaper_5{background-image: url('../img/icons/cb/ic_desktop_wallpaper_5.png');}
+    .ibc-development_4{background-image: url('../img/icons/cb/ic_development_4.png');}
+    .ibc-development_web{background-image: url('../img/icons/cb/ic_development_web.png');}
+    .ibc-dialog_clean{background-image: url('../img/icons/cb/ic_dialog_clean.png');}
+    .ibc-dialog_declare{background-image: url('../img/icons/cb/ic_dialog_declare.png');}
+    .ibc-dialog_error{background-image: url('../img/icons/cb/ic_dialog_error.png');}
+    .ibc-dialog_error_3{background-image: url('../img/icons/cb/ic_dialog_error_3.png');}
+    .ibc-dialog_important_2{background-image: url('../img/icons/cb/ic_dialog_important_2.png');}
+    .ibc-dialog_information{background-image: url('../img/icons/cb/ic_dialog_information.png');}
+    .ibc-dialog_information_2{background-image: url('../img/icons/cb/ic_dialog_information_2.png');}
+    .ibc-dialog_information_3{background-image: url('../img/icons/cb/ic_dialog_information_3.png');}
+    .ibc-dialog_password{background-image: url('../img/icons/cb/ic_dialog_password.png');}
+    .ibc-dialog_password_2{background-image: url('../img/icons/cb/ic_dialog_password_2.png');}
+    .ibc-dialog_question{background-image: url('../img/icons/cb/ic_dialog_question.png');}
+    .ibc-dialog_question_2{background-image: url('../img/icons/cb/ic_dialog_question_2.png');}
+    .ibc-dialog_warning_2{background-image: url('../img/icons/cb/ic_dialog_warning_2.png');}
+    .ibc-dialog_warning_panel{background-image: url('../img/icons/cb/ic_dialog_warning_panel.png');}
+    .ibc-diamond_blue{background-image: url('../img/icons/cb/ic_diamond_blue.png');}
+    .ibc-diamond_green{background-image: url('../img/icons/cb/ic_diamond_green.png');}
+    .ibc-diamond_orange{background-image: url('../img/icons/cb/ic_diamond_orange.png');}
+    .ibc-diamond_red{background-image: url('../img/icons/cb/ic_diamond_red.png');}
+    .ibc-disc_00{background-image: url('../img/icons/cb/ic_disc_00.png');}
+    .ibc-display_brightness_full{background-image: url('../img/icons/cb/ic_display_brightness_full.png');}
+    .ibc-documents{background-image: url('../img/icons/cb/ic_documents.png');}
+    .ibc-downloads{background-image: url('../img/icons/cb/ic_downloads.png');}
+    .ibc-drive_harddisk{background-image: url('../img/icons/cb/ic_drive_harddisk.png');}
+    .ibc-drive_harddisk_2{background-image: url('../img/icons/cb/ic_drive_harddisk_2.png');}
+    .ibc-drive_harddisk_5{background-image: url('../img/icons/cb/ic_drive_harddisk_5.png');}
+    .ibc-drive_optical_4{background-image: url('../img/icons/cb/ic_drive_optical_4.png');}
+    .ibc-drive_raid{background-image: url('../img/icons/cb/ic_drive_raid.png');}
+    .ibc-drive_webhdd{background-image: url('../img/icons/cb/ic_drive_webhdd.png');}
+    .ibc-education{background-image: url('../img/icons/cb/ic_education.png');}
+    .ibc-education_mathematics{background-image: url('../img/icons/cb/ic_education_mathematics.png');}
+    .ibc-emblem_money{background-image: url('../img/icons/cb/ic_emblem_money.png');}
+    .ibc-emblem_office{background-image: url('../img/icons/cb/ic_emblem_office.png');}
+    .ibc-emblem_system{background-image: url('../img/icons/cb/ic_emblem_system.png');}
+    .ibc-emblem_system_2{background-image: url('../img/icons/cb/ic_emblem_system_2.png');}
+    .ibc-emblem_system_3{background-image: url('../img/icons/cb/ic_emblem_system_3.png');}
+    .ibc-engineering{background-image: url('../img/icons/cb/ic_engineering.png');}
+    .ibc-engineering_2{background-image: url('../img/icons/cb/ic_engineering_2.png');}
+    .ibc-engineering_3{background-image: url('../img/icons/cb/ic_engineering_3.png');}
+    .ibc-executable{background-image: url('../img/icons/cb/ic_executable.png');}
+    .ibc-eye{background-image: url('../img/icons/cb/ic_eye.png.png');}
+    .ibc-file_manager{background-image: url('../img/icons/cb/ic_file_manager.png');}
+    .ibc-file_manager_3{background-image: url('../img/icons/cb/ic_file_manager_3.png');}
+    .ibc-file_manager_5{background-image: url('../img/icons/cb/ic_file_manager_5.png');}
+    .ibc-folder{background-image: url('../img/icons/cb/ic_folder.png');}
+    .ibc-folder_2{background-image: url('../img/icons/cb/ic_folder_2.png');}
+    .ibc-folder_drag_accept{background-image: url('../img/icons/cb/ic_folder_drag_accept.png');}
+    .ibc-folder_drag_accept_3{background-image: url('../img/icons/cb/ic_folder_drag_accept_3.png');}
+    .ibc-folder_open_2{background-image: url('../img/icons/cb/ic_folder_open_2.png');}
+    .ibc-folder_open_3{background-image: url('../img/icons/cb/ic_folder_open_3.png');}
+    .ibc-folder_open_5{background-image: url('../img/icons/cb/ic_folder_open_5.png');}
+    .ibc-folder_remote{background-image: url('../img/icons/cb/ic_folder_remote.png');}
+    .ibc-folder_remote_2{background-image: url('../img/icons/cb/ic_folder_remote_2.png');}
+    .ibc-folder_saved_search{background-image: url('../img/icons/cb/ic_folder_saved_search.png');}
+    .ibc-folder_visiting{background-image: url('../img/icons/cb/ic_folder_visiting.png');}
+    .ibc-font_x_generic{background-image: url('../img/icons/cb/ic_font_x_generic.png');}
+    .ibc-games_4{background-image: url('../img/icons/cb/ic_games_4.png');}
+    .ibc-generic{background-image: url('../img/icons/cb/ic_generic.png');}
+    .ibc-graphics{background-image: url('../img/icons/cb/ic_graphics.png');}
+    .ibc-graphics_2{background-image: url('../img/icons/cb/ic_graphics_2.png');}
+    .ibc-graphics_3{background-image: url('../img/icons/cb/ic_graphics_3.png');}
+    .ibc-graphics_4{background-image: url('../img/icons/cb/ic_graphics_4.png');}
+    .ibc-headset{background-image: url('../img/icons/cb/ic_headset.png');}
+    .ibc-help{background-image: url('../img/icons/cb/ic_help.png');}
+    .ibc-help_2{background-image: url('../img/icons/cb/ic_help_2.png');}
+    .ibc-help_3{background-image: url('../img/icons/cb/ic_help_3.png');}
+    .ibc-hibernate{background-image: url('../img/icons/cb/ic_hibernate.png');}
+    .ibc-important{background-image: url('../img/icons/cb/ic_important.png');}
+    .ibc-important_2{background-image: url('../img/icons/cb/ic_important_2.png');}
+    .ibc-important_3{background-image: url('../img/icons/cb/ic_important_3.png');}
+    .ibc-important_red{background-image: url('../img/icons/cb/ic_important_red.png');}
+    .ibc-important_yellow{background-image: url('../img/icons/cb/ic_important_yellow.png');}
+    .ibc-input_microphone_3{background-image: url('../img/icons/cb/ic_input_microphone_3.png');}
+    .ibc-input_microphone_4{background-image: url('../img/icons/cb/ic_input_microphone_4.png');}
+    .ibc-input_mouse{background-image: url('../img/icons/cb/ic_input_mouse.png');}
+    .ibc-input_mouse_4{background-image: url('../img/icons/cb/ic_input_mouse_4.png');}
+    .ibc-input_tablet_3{background-image: url('../img/icons/cb/ic_input_tablet_3.png');}
+    .ibc-install{background-image: url('../img/icons/cb/ic_install.png');}
+    .ibc-installer_3{background-image: url('../img/icons/cb/ic_installer_3.png');}
+    .ibc-internet{background-image: url('../img/icons/cb/ic_internet.png');}
+    .ibc-internet_2{background-image: url('../img/icons/cb/ic_internet_2.png');}
+    .ibc-internet_3{background-image: url('../img/icons/cb/ic_internet_3.png');}
+    .ibc-interrobang{background-image: url('../img/icons/cb/ic_interrobang.png');}
+    .ibc-jigsaw_piece_t{background-image: url('../img/icons/cb/ic_jigsaw_piece_t.png');}
+    .ibc-keyboard{background-image: url('../img/icons/cb/ic_keyboard.png');}
+    .ibc-login{background-image: url('../img/icons/cb/ic_login.png');}
+    .ibc-mail{background-image: url('../img/icons/cb/ic_mail.png');}
+    .ibc-mail_attachment{background-image: url('../img/icons/cb/ic_mail_attachment.png');}
+    .ibc-mail_attachment_2{background-image: url('../img/icons/cb/ic_mail_attachment_2.png');}
+    .ibc-mail_attachment_3{background-image: url('../img/icons/cb/ic_mail_attachment_3.png');}
+    .ibc-mail_inbox{background-image: url('../img/icons/cb/ic_mail_inbox.png');}
+    .ibc-mail_queued{background-image: url('../img/icons/cb/ic_mail_queued.png');}
+    .ibc-mail_read{background-image: url('../img/icons/cb/ic_mail_read.png');}
+    .ibc-mail_read_2{background-image: url('../img/icons/cb/ic_mail_read_2.png');}
+    .ibc-mail_replied{background-image: url('../img/icons/cb/ic_mail_replied.png');}
+    .ibc-mail_replied_2{background-image: url('../img/icons/cb/ic_mail_replied_2.png');}
+    .ibc-mail_unread{background-image: url('../img/icons/cb/ic_mail_unread.png');}
+    .ibc-mail_unread_2{background-image: url('../img/icons/cb/ic_mail_unread_2.png');}
+    .ibc-mail_unread_new{background-image: url('../img/icons/cb/ic_mail_unread_new.png');}
+    .ibc-media_cdrom_audio{background-image: url('../img/icons/cb/ic_media_cdrom_audio.png');}
+    .ibc-media_flash{background-image: url('../img/icons/cb/ic_media_flash.png');}
+    .ibc-media_flash_2{background-image: url('../img/icons/cb/ic_media_flash_2.png');}
+    .ibc-media_flash_sd_mmc{background-image: url('../img/icons/cb/ic_media_flash_sd_mmc.png');}
+    .ibc-media_flash_usbpendrive_2{background-image: url('../img/icons/cb/ic_media_flash_usbpendrive_2.png');}
+    .ibc-media_floppy_2{background-image: url('../img/icons/cb/ic_media_floppy_2.png');}
+    .ibc-media_floppy_3.5_2{background-image: url('../img/icons/cb/ic_media_floppy_3.5_2.png');}
+    .ibc-media_floppy_3{background-image: url('../img/icons/cb/ic_media_floppy_3.png');}
+    .ibc-media_sim_card{background-image: url('../img/icons/cb/ic_media_sim_card.png');}
+    .ibc-missed{background-image: url('../img/icons/cb/ic_missed.png');}
+    .ibc-molicule{background-image: url('../img/icons/cb/ic_molicule.png');}
+    .ibc-money{background-image: url('../img/icons/cb/ic_money.png');}
+    .ibc-money_exchange{background-image: url('../img/icons/cb/ic_money_exchange.png');}
+    .ibc-multimedia{background-image: url('../img/icons/cb/ic_multimedia.png');}
+    .ibc-multimedia_2{background-image: url('../img/icons/cb/ic_multimedia_2.png');}
+    .ibc-multimedia_3{background-image: url('../img/icons/cb/ic_multimedia_3.png');}
+    .ibc-multimedia_4{background-image: url('../img/icons/cb/ic_multimedia_4.png');}
+    .ibc-multimedia_5{background-image: url('../img/icons/cb/ic_multimedia_5.png');}
+    .ibc-multimedia_player{background-image: url('../img/icons/cb/ic_multimedia_player.png');}
+    .ibc-multimedia_player_3{background-image: url('../img/icons/cb/ic_multimedia_player_3.png');}
+    .ibc-multimedia_player_4{background-image: url('../img/icons/cb/ic_multimedia_player_4.png');}
+    .ibc-multimedia_player_5{background-image: url('../img/icons/cb/ic_multimedia_player_5.png');}
+    .ibc-music{background-image: url('../img/icons/cb/ic_music.png');}
+    .ibc-network_2{background-image: url('../img/icons/cb/ic_network_2.png');}
+    .ibc-network_3{background-image: url('../img/icons/cb/ic_network_3.png');}
+    .ibc-network_bluetooth{background-image: url('../img/icons/cb/ic_network_bluetooth.png');}
+    .ibc-network_idle{background-image: url('../img/icons/cb/ic_network_idle.png');}
+    .ibc-network_nfs{background-image: url('../img/icons/cb/ic_network_nfs.png');}
+    .ibc-network_wireless{background-image: url('../img/icons/cb/ic_network_wireless.png');}
+    .ibc-network_wireless_2{background-image: url('../img/icons/cb/ic_network_wireless_2.png');}
+    .ibc-network_wireless_full{background-image: url('../img/icons/cb/ic_network_wireless_full.png');}
+    .ibc-network_wireless_high{background-image: url('../img/icons/cb/ic_network_wireless_high.png');}
+    .ibc-network_wireless_low{background-image: url('../img/icons/cb/ic_network_wireless_low.png');}
+    .ibc-network_wireless_medium{background-image: url('../img/icons/cb/ic_network_wireless_medium.png');}
+    .ibc-network_wireless_none{background-image: url('../img/icons/cb/ic_network_wireless_none.png');}
+    .ibc-network_workgroup{background-image: url('../img/icons/cb/ic_network_workgroup.png');}
+    .ibc-new{background-image: url('../img/icons/cb/ic_new.png');}
+    .ibc-notice{background-image: url('../img/icons/cb/ic_notice.png');}
+    .ibc-object_locked{background-image: url('../img/icons/cb/ic_object_locked.png');}
+    .ibc-object_locked_2{background-image: url('../img/icons/cb/ic_object_locked_2.png');}
+    .ibc-object_unlocked{background-image: url('../img/icons/cb/ic_object_unlocked.png');}
+    .ibc-object_unlocked_2{background-image: url('../img/icons/cb/ic_object_unlocked_2.png');}
+    .ibc-office{background-image: url('../img/icons/cb/ic_office.png');}
+    .ibc-office_2{background-image: url('../img/icons/cb/ic_office_2.png');}
+    .ibc-office_3{background-image: url('../img/icons/cb/ic_office_3.png');}
+    .ibc-office_4{background-image: url('../img/icons/cb/ic_office_4.png');}
+    .ibc-office_5{background-image: url('../img/icons/cb/ic_office_5.png');}
+    .ibc-other{background-image: url('../img/icons/cb/ic_other.png');}
+    .ibc-other_2{background-image: url('../img/icons/cb/ic_other_2.png');}
+    .ibc-package{background-image: url('../img/icons/cb/ic_package.png');}
+    .ibc-package_x_generic{background-image: url('../img/icons/cb/ic_package_x_generic.png');}
+    .ibc-paragraph{background-image: url('../img/icons/cb/ic_paragraph.png');}
+    .ibc-password_2{background-image: url('../img/icons/cb/ic_password_2.png');}
+    .ibc-pda_3{background-image: url('../img/icons/cb/ic_pda_3.png');}
+    .ibc-pda_alt{background-image: url('../img/icons/cb/ic_pda_alt.png');}
+    .ibc-pda_blue_2{background-image: url('../img/icons/cb/ic_pda_blue_2.png');}
+    .ibc-percentage{background-image: url('../img/icons/cb/ic_percentage.png');}
+    .ibc-phone_2{background-image: url('../img/icons/cb/ic_phone_2.png');}
+    .ibc-phone_3{background-image: url('../img/icons/cb/ic_phone_3.png');}
+    .ibc-photos{background-image: url('../img/icons/cb/ic_photos.png');}
+    .ibc-photos_2{background-image: url('../img/icons/cb/ic_photos_2.png');}
+    .ibc-pictographs_star_of_life{background-image: url('../img/icons/cb/ic_pictographs_star_of_life.png');}
+    .ibc-plugin{background-image: url('../img/icons/cb/ic_plugin.png');}
+    .ibc-pr{background-image: url('../img/icons/cb/ic_pr.png');}
+    .ibc-preferences_4{background-image: url('../img/icons/cb/ic_preferences_4.png');}
+    .ibc-preferences_5{background-image: url('../img/icons/cb/ic_preferences_5.png');}
+    .ibc-preferences_other_2{background-image: url('../img/icons/cb/ic_preferences_other_2.png');}
+    .ibc-preferences_system{background-image: url('../img/icons/cb/ic_preferences_system.png');}
+    .ibc-preferences_system_2{background-image: url('../img/icons/cb/ic_preferences_system_2.png');}
+    .ibc-printer_5{background-image: url('../img/icons/cb/ic_printer_5.png');}
+    .ibc-printer_printing{background-image: url('../img/icons/cb/ic_printer_printing.png');}
+    .ibc-qstardict{background-image: url('../img/icons/cb/ic_qstardict.png');}
+    .ibc-qt_designer_2{background-image: url('../img/icons/cb/ic_qt_designer_2.png');}
+    .ibc-qt_designer_3{background-image: url('../img/icons/cb/ic_qt_designer_3.png');}
+    .ibc-qtconfig{background-image: url('../img/icons/cb/ic_qtconfig.png');}
+    .ibc-question{background-image: url('../img/icons/cb/ic_question.png');}
+    .ibc-question_red{background-image: url('../img/icons/cb/ic_question_red.png');}
+    .ibc-question_yellow{background-image: url('../img/icons/cb/ic_question_yellow.png');}
+    .ibc-radio_old{background-image: url('../img/icons/cb/ic_radio_old.png');}
+    .ibc-randr{background-image: url('../img/icons/cb/ic_randr.png');}
+    .ibc-randr_2{background-image: url('../img/icons/cb/ic_randr_2.png');}
+    .ibc-rapidsvn{background-image: url('../img/icons/cb/ic_rapidsvn.png');}
+    .ibc-readonly{background-image: url('../img/icons/cb/ic_readonly.png');}
+    .ibc-readonly_2{background-image: url('../img/icons/cb/ic_readonly_2.png');}
+    .ibc-reboot{background-image: url('../img/icons/cb/ic_reboot.png');}
+    .ibc-rectagle_blue{background-image: url('../img/icons/cb/ic_rectagle_blue.png');}
+    .ibc-rectagle_green{background-image: url('../img/icons/cb/ic_rectagle_green.png');}
+    .ibc-rectagle_grey{background-image: url('../img/icons/cb/ic_rectagle_grey.png');}
+    .ibc-rectagle_orange{background-image: url('../img/icons/cb/ic_rectagle_orange.png');}
+    .ibc-rectagle_purple{background-image: url('../img/icons/cb/ic_rectagle_purple.png');}
+    .ibc-rectagle_red{background-image: url('../img/icons/cb/ic_rectagle_red.png');}
+    .ibc-rectagle_tan{background-image: url('../img/icons/cb/ic_rectagle_tan.png');}
+    .ibc-rectagle_yellow{background-image: url('../img/icons/cb/ic_rectagle_yellow.png');}
+    .ibc-recurring{background-image: url('../img/icons/cb/ic_recurring.png');}
+    .ibc-reminder{background-image: url('../img/icons/cb/ic_reminder.png');}
+    .ibc-rhythmbox{background-image: url('../img/icons/cb/ic_rhythmbox.png');}
+    .ibc-road_sign_us_mutcd{background-image: url('../img/icons/cb/ic_road_sign_us_mutcd.png');}
+    .ibc-road_sign_us_school{background-image: url('../img/icons/cb/ic_road_sign_us_school.png');}
+    .ibc-road_sign_us_stop{background-image: url('../img/icons/cb/ic_road_sign_us_stop.png');}
+    .ibc-road_sign_us_yield{background-image: url('../img/icons/cb/ic_road_sign_us_yield.png');}
+    .ibc-road_signs{background-image: url('../img/icons/cb/ic_road_signs.png');}
+    .ibc-run{background-image: url('../img/icons/cb/ic_run.png');}
+    .ibc-sabayon{background-image: url('../img/icons/cb/ic_sabayon.png');}
+    .ibc-scanner_3{background-image: url('../img/icons/cb/ic_scanner_3.png');}
+    .ibc-science{background-image: url('../img/icons/cb/ic_science.png');}
+    .ibc-science_2{background-image: url('../img/icons/cb/ic_science_2.png');}
+    .ibc-science_3{background-image: url('../img/icons/cb/ic_science_3.png');}
+    .ibc-screenlets{background-image: url('../img/icons/cb/ic_screenlets.png');}
+    .ibc-screenruler{background-image: url('../img/icons/cb/ic_screenruler.png');}
+    .ibc-seahorse{background-image: url('../img/icons/cb/ic_seahorse.png');}
+    .ibc-seahorse_2{background-image: url('../img/icons/cb/ic_seahorse_2.png');}
+    .ibc-seahorse_preferences_2{background-image: url('../img/icons/cb/ic_seahorse_preferences_2.png');}
+    .ibc-security_high{background-image: url('../img/icons/cb/ic_security_high.png');}
+    .ibc-security_high_2{background-image: url('../img/icons/cb/ic_security_high_2.png');}
+    .ibc-security_low_2{background-image: url('../img/icons/cb/ic_security_low_2.png');}
+    .ibc-security_medium_2{background-image: url('../img/icons/cb/ic_security_medium_2.png');}
+    .ibc-serpentine{background-image: url('../img/icons/cb/ic_serpentine.png');}
+    .ibc-session_manager{background-image: url('../img/icons/cb/ic_session_manager.png');}
+    .ibc-session_services{background-image: url('../img/icons/cb/ic_session_services.png');}
+    .ibc-settings{background-image: url('../img/icons/cb/ic_settings.png');}
+    .ibc-settings_2{background-image: url('../img/icons/cb/ic_settings_2.png');}
+    .ibc-settings_3d{background-image: url('../img/icons/cb/ic_settings_3d.png');}
+    .ibc-settings_3ddesktop{background-image: url('../img/icons/cb/ic_settings_3ddesktop.png');}
+    .ibc-shared{background-image: url('../img/icons/cb/ic_shared.png');}
+    .ibc-shutdown_5{background-image: url('../img/icons/cb/ic_shutdown_5.png');}
+    .ibc-sipphone{background-image: url('../img/icons/cb/ic_sipphone.png');}
+    .ibc-skencil{background-image: url('../img/icons/cb/ic_skencil.png');}
+    .ibc-sms{background-image: url('../img/icons/cb/ic_sms.png');}
+    .ibc-smserver{background-image: url('../img/icons/cb/ic_smserver.png');}
+    .ibc-soon{background-image: url('../img/icons/cb/ic_soon.png');}
+    .ibc-speaker{background-image: url('../img/icons/cb/ic_speaker.png');}
+    .ibc-special{background-image: url('../img/icons/cb/ic_special.png');}
+    .ibc-sqlite_database_browser{background-image: url('../img/icons/cb/ic_sqlite_database_browser.png');}
+    .ibc-stardict{background-image: url('../img/icons/cb/ic_stardict.png');}
+    .ibc-startupmanager{background-image: url('../img/icons/cb/ic_startupmanager.png');}
+    .ibc-strigi{background-image: url('../img/icons/cb/ic_strigi.png');}
+    .ibc-subtitleeditor{background-image: url('../img/icons/cb/ic_subtitleeditor.png');}
+    .ibc-suitcase{background-image: url('../img/icons/cb/ic_suitcase.png');}
+    .ibc-suspend{background-image: url('../img/icons/cb/ic_suspend.png');}
+    .ibc-switch_user_2{background-image: url('../img/icons/cb/ic_switch_user_2.png');}
+    .ibc-symbolibc-link{background-image: url('../img/icons/cb/ic_symbolic_link.png');}
+    .ibc-symbolibc-link_2{background-image: url('../img/icons/cb/ic_symbolic_link_2.png');}
+    .ibc-system{background-image: url('../img/icons/cb/ic_system.png');}
+    .ibc-system_2{background-image: url('../img/icons/cb/ic_system_2.png');}
+    .ibc-system_3{background-image: url('../img/icons/cb/ic_system_3.png');}
+    .ibc-task_complete{background-image: url('../img/icons/cb/ic_task_complete.png');}
+    .ibc-task_due{background-image: url('../img/icons/cb/ic_task_due.png');}
+    .ibc-task_past_due{background-image: url('../img/icons/cb/ic_task_past_due.png');}
+    .ibc-task_recurring{background-image: url('../img/icons/cb/ic_task_recurring.png');}
+    .ibc-taskjuggler{background-image: url('../img/icons/cb/ic_taskjuggler.png');}
+    .ibc-tasks{background-image: url('../img/icons/cb/ic_tasks.png');}
+    .ibc-tasque{background-image: url('../img/icons/cb/ic_tasque.png');}
+    .ibc-time{background-image: url('../img/icons/cb/ic_time.png');}
+    .ibc-tools_hammer_and_nails{background-image: url('../img/icons/cb/ic_tools_hammer_and_nails.png');}
+    .ibc-twinkle{background-image: url('../img/icons/cb/ic_twinkle.png');}
+    .ibc-unreadable{background-image: url('../img/icons/cb/ic_unreadable.png');}
+    .ibc-unreadable_2{background-image: url('../img/icons/cb/ic_unreadable_2.png');}
+    .ibc-update_2{background-image: url('../img/icons/cb/ic_update_2.png');}
+    .ibc-update_3{background-image: url('../img/icons/cb/ic_update_3.png');}
+    .ibc-update_inactive{background-image: url('../img/icons/cb/ic_update_inactive.png');}
+    .ibc-update_urgent{background-image: url('../img/icons/cb/ic_update_urgent.png');}
+    .ibc-update_urgent_3{background-image: url('../img/icons/cb/ic_update_urgent_3.png');}
+    .ibc-urgent{background-image: url('../img/icons/cb/ic_urgent.png');}
+    .ibc-user_available{background-image: url('../img/icons/cb/ic_user_available.png');}
+    .ibc-user_away{background-image: url('../img/icons/cb/ic_user_away.png');}
+    .ibc-user_away_2{background-image: url('../img/icons/cb/ic_user_away_2.png');}
+    .ibc-user_away_extended{background-image: url('../img/icons/cb/ic_user_away_extended.png');}
+    .ibc-user_busy{background-image: url('../img/icons/cb/ic_user_busy.png');}
+    .ibc-user_desktop{background-image: url('../img/icons/cb/ic_user_desktop.png');}
+    .ibc-user_extended_away{background-image: url('../img/icons/cb/ic_user_extended_away.png');}
+    .ibc-user_home{background-image: url('../img/icons/cb/ic_user_home.png');}
+    .ibc-user_info{background-image: url('../img/icons/cb/ic_user_info.png');}
+    .ibc-user_invisible{background-image: url('../img/icons/cb/ic_user_invisible.png');}
+    .ibc-user_invisible_2{background-image: url('../img/icons/cb/ic_user_invisible_2.png');}
+    .ibc-user_offline{background-image: url('../img/icons/cb/ic_user_offline.png');}
+    .ibc-user_offline_2{background-image: url('../img/icons/cb/ic_user_offline_2.png');}
+    .ibc-user_online{background-image: url('../img/icons/cb/ic_user_online.png');}
+    .ibc-user_online_2{background-image: url('../img/icons/cb/ic_user_online_2.png');}
+    .ibc-user_trash{background-image: url('../img/icons/cb/ic_user_trash.png');}
+    .ibc-user_trash_full{background-image: url('../img/icons/cb/ic_user_trash_full.png');}
+    .ibc-user_trash_full_2{background-image: url('../img/icons/cb/ic_user_trash_full_2.png');}
+    .ibc-user_trash_full_3{background-image: url('../img/icons/cb/ic_user_trash_full_3.png');}
+    .ibc-userconfig{background-image: url('../img/icons/cb/ic_userconfig.png');}
+    .ibc-users_2{background-image: url('../img/icons/cb/ic_users_2.png');}
+    .ibc-users_3{background-image: url('../img/icons/cb/ic_users_3.png');}
+    .ibc-users_4{background-image: url('../img/icons/cb/ic_users_4.png');}
+    .ibc-utilities{background-image: url('../img/icons/cb/ic_utilities.png');}
+    .ibc-utilities_4{background-image: url('../img/icons/cb/ic_utilities_4.png');}
+    .ibc-utilities_applications{background-image: url('../img/icons/cb/ic_utilities_applications.png');}
+    .ibc-utilities_file_archiver{background-image: url('../img/icons/cb/ic_utilities_file_archiver.png');}
+    .ibc-utilities_find_2{background-image: url('../img/icons/cb/ic_utilities_find_2.png');}
+    .ibc-utilities_log_viewer{background-image: url('../img/icons/cb/ic_utilities_log_viewer.png');}
+    .ibc-utilities_monitor{background-image: url('../img/icons/cb/ic_utilities_monitor.png');}
+    .ibc-utilities_monitor_2{background-image: url('../img/icons/cb/ic_utilities_monitor_2.png');}
+    .ibc-utilities_monitor_3{background-image: url('../img/icons/cb/ic_utilities_monitor_3.png');}
+    .ibc-utilities_monitor_4{background-image: url('../img/icons/cb/ic_utilities_monitor_4.png');}
+    .ibc-utilities_monitor_5{background-image: url('../img/icons/cb/ic_utilities_monitor_5.png');}
+    .ibc-utilities_remote{background-image: url('../img/icons/cb/ic_utilities_remote.png');}
+    .ibc-utilities_user_info{background-image: url('../img/icons/cb/ic_utilities_user_info.png');}
+    .ibc-vcalendar{background-image: url('../img/icons/cb/ic_vcalendar.png');}
+    .ibc-video_display{background-image: url('../img/icons/cb/ic_video_display.png');}
+    .ibc-video_television{background-image: url('../img/icons/cb/ic_video_television.png');}
+    .ibc-video_television_2{background-image: url('../img/icons/cb/ic_video_television_2.png');}
+    .ibc-video_television_3{background-image: url('../img/icons/cb/ic_video_television_3.png');}
+    .ibc-videos{background-image: url('../img/icons/cb/ic_videos.png');}
+    .ibc-vinagre{background-image: url('../img/icons/cb/ic_vinagre.png');}
+    .ibc-virtualbox{background-image: url('../img/icons/cb/ic_virtualbox.png');}
+    .ibc-vmware{background-image: url('../img/icons/cb/ic_vmware.png');}
+    .ibc-volume_high{background-image: url('../img/icons/cb/ic_volume_high.png');}
+    .ibc-volume_high_4{background-image: url('../img/icons/cb/ic_volume_high_4.png');}
+    .ibc-w3perl{background-image: url('../img/icons/cb/ic_w3perl.png');}
+    .ibc-wallet_closed{background-image: url('../img/icons/cb/ic_wallet_closed.png');}
+    .ibc-wallet_open{background-image: url('../img/icons/cb/ic_wallet_open.png');}
+    .ibc-weather_day{background-image: url('../img/icons/cb/ic_weather_day.png');}
+    .ibc-what{background-image: url('../img/icons/cb/ic_what.png');}
+    .ibc-wifi{background-image: url('../img/icons/cb/ic_wifi.png');}
+    .ibc-windows_2{background-image: url('../img/icons/cb/ic_windows_2.png');}
+    .ibc-windows_4{background-image: url('../img/icons/cb/ic_windows_4.png');}
+    .ibc-wine_2{background-image: url('../img/icons/cb/ic_wine_2.png');}
+    .ibc-wine_doors{background-image: url('../img/icons/cb/ic_wine_doors.png');}
+    .ibc-winprops{background-image: url('../img/icons/cb/ic_winprops.png');}
+    .ibc-winprops_2{background-image: url('../img/icons/cb/ic_winprops_2.png');}
+    .ibc-wordperfect{background-image: url('../img/icons/cb/ic_wordperfect.png');}
+    .ibc-x_generic{background-image: url('../img/icons/cb/ic_x_generic.png');}
+    .ibc-x_office_document{background-image: url('../img/icons/cb/ic_x_office_document.png');}
+    .ibc-xcalc_2{background-image: url('../img/icons/cb/ic_xcalc_2.png');}
+    .ibc-xclock{background-image: url('../img/icons/cb/ic_xclock.png');}
+    .ibc-xfcalendar{background-image: url('../img/icons/cb/ic_xfcalendar.png');}
+    .ibc-xmag_3{background-image: url('../img/icons/cb/ic_xmag_3.png');}
+    .ibc-xpad{background-image: url('../img/icons/cb/ic_xpad.png');}
+
+/* eof big icons */
