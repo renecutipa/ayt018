@@ -43,11 +43,11 @@ class Login extends CI_Controller
 			$password = sha1($this->input->post('password'));
 			$check_user = $this->login_model->login_user($username,$password);
 			if($check_user == TRUE)
-			{
+			{				
 				$data = array(
 	               'is_logued_in' 	=> 		TRUE,
 	               'id_usuario' 	=> 		$check_user->id,
-	               'tipo'			=>		$check_user->tipo,
+	               'tipo' 			=> 		$check_user->tipo,
 	               'username' 		=> 		$check_user->username
            		);		
 				$this->session->set_userdata($data);

@@ -14,7 +14,6 @@ class Login_model extends CI_Model {
 		$this->db->where('username',$username);
 		$this->db->where('password',$password);
 		$query = $this->db->get('usuarios');
-
 		
 		if($query->num_rows() == 1)
 		{
